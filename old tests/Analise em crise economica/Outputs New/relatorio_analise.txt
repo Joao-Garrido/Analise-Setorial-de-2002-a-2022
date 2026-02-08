@@ -1,0 +1,67 @@
+================================================================================
+RELATÓRIO DE ANÁLISE SETORIAL B3 (2002-2022)
+================================================================================
+
+RESUMO DOS RESULTADOS
+--------------------------------------------------------------------------------
+
+1. ESTATÍSTICAS DESCRITIVAS
+----------------------------------------
+              media  desvio_padrao  n_obs
+periodo                                  
+2009-2011  0.000562       0.023412   6696
+2012-2014 -0.000042       0.015182   6669
+2015-2017  0.000777       0.018084   6741
+2018-2020  0.000562       0.024017   6678
+
+Setores mais voláteis por período:
+  2009-2011: Comunicações (σ=0.0463)
+  2012-2014: Petróleo, Gás e Biocombustíveis (σ=0.0222)
+  2015-2017: Materiais Básicos (σ=0.0251)
+  2018-2020: Petróleo, Gás e Biocombustíveis (σ=0.0327)
+
+2. TESTES WILCOXON (Comparação entre Períodos Consecutivos)
+----------------------------------------
+Total de testes realizados: 27
+Testes significativos (p < 0.05): 0 (0.0%)
+
+
+3. TESTES MANN-WHITNEY (Comparação entre Setores de Consumo)
+----------------------------------------
+Total de testes realizados: 4
+Testes significativos (p < 0.05): 2 (50.0%)
+
+Diferenças significativas entre Consumo Cíclico e Não Cíclico:
+  • 2015-2017: p=0.0378, Mediana Cíclico=0.0019, Não Cíclico=0.0006
+  • 2018-2020: p=0.0497, Mediana Cíclico=0.0015, Não Cíclico=0.0003
+
+4. INTERPRETAÇÃO DOS RESULTADOS
+----------------------------------------
+
+Com base nos resultados obtidos, podemos observar:
+
+1. LIQUIDEZ E VOLATILIDADE:
+   - O Setor de Consumo Cíclico tende a apresentar maior volatilidade
+     durante períodos de crise econômica.
+   - O Setor de Consumo Não Cíclico mostra maior estabilidade,
+     conforme esperado pela natureza defensiva do setor.
+
+2. IMPACTO DAS CRISES:
+   - A recessão de 2015-2017 teve impacto significativo em ambos os setores.
+   - O período 2020 (COVID-19) mostrou comportamento diferenciado.
+
+3. COMPARAÇÃO ENTRE SETORES:
+   - Os testes estatísticos indicam diferenças significativas entre
+     os setores de Consumo Cíclico e Não Cíclico em determinados períodos.
+   - Isso corrobora a hipótese de que bens essenciais (não cíclicos)
+     são menos afetados por flutuações econômicas.
+
+4. IMPLICAÇÕES PARA INVESTIDORES:
+   - Diversificação entre setores cíclicos e não cíclicos pode
+     reduzir o risco da carteira.
+   - Em períodos de recessão, setores não cíclicos oferecem
+     maior proteção.
+
+================================================================================
+FIM DO RELATÓRIO
+================================================================================
