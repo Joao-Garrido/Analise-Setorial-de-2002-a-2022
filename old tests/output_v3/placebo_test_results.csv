@@ -1,0 +1,2195 @@
+﻿placebo_id,ano_placebo,setor,janela,car,n_dias
+0,2011,Bens Industriais,placebo_antecip,-0.022190299525799283,45
+0,2011,Bens Industriais,placebo_reacao,-0.04386437438549047,11
+0,2011,Comunicações,placebo_antecip,0.07649746674775146,44
+0,2011,Comunicações,placebo_reacao,-0.039211219045531556,10
+0,2011,Construção e Transporte,placebo_antecip,-0.07990359971098548,44
+0,2011,Construção e Transporte,placebo_reacao,-0.004222045719596877,10
+0,2011,Consumo Cíclico,placebo_antecip,-0.06648843150120583,44
+0,2011,Consumo Cíclico,placebo_reacao,-0.0375573741303187,10
+0,2011,Consumo Não Cíclico,placebo_antecip,-0.019707406105146544,44
+0,2011,Consumo Não Cíclico,placebo_reacao,-0.013083214439400769,10
+0,2011,Financeiro,placebo_antecip,0.001698737815663114,44
+0,2011,Financeiro,placebo_reacao,-0.004575387729136552,10
+0,2011,Materiais Básicos,placebo_antecip,-0.04241279975463374,44
+0,2011,Materiais Básicos,placebo_reacao,-0.01669762753136042,10
+0,2011,Outros,placebo_antecip,-0.02331432536850203,44
+0,2011,Outros,placebo_reacao,-0.04749068736394501,10
+0,2011,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.21323982900075508,44
+0,2011,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.0540405878664062,10
+0,2011,Saúde,placebo_antecip,-0.058241678005289926,44
+0,2011,Saúde,placebo_reacao,-0.0434041641540905,10
+0,2011,Utilidade Pública,placebo_antecip,0.05413941705147274,44
+0,2011,Utilidade Pública,placebo_reacao,0.022433945008429185,10
+1,2007,Bens Industriais,placebo_antecip,-0.10608524537352518,45
+1,2007,Bens Industriais,placebo_reacao,0.24752876482900868,11
+1,2007,Comunicações,placebo_antecip,-0.14479545044657788,44
+1,2007,Comunicações,placebo_reacao,0.008968049259372893,10
+1,2007,Construção e Transporte,placebo_antecip,-0.10061743015435146,44
+1,2007,Construção e Transporte,placebo_reacao,-0.029254728180560994,10
+1,2007,Consumo Cíclico,placebo_antecip,-0.012915206135545263,44
+1,2007,Consumo Cíclico,placebo_reacao,0.06445183856065946,10
+1,2007,Consumo Não Cíclico,placebo_antecip,-0.09183663100597966,44
+1,2007,Consumo Não Cíclico,placebo_reacao,0.025339940069309806,10
+1,2007,Financeiro,placebo_antecip,-0.17538650123647856,44
+1,2007,Financeiro,placebo_reacao,-0.013942748313546065,10
+1,2007,Materiais Básicos,placebo_antecip,-0.1269098731865971,44
+1,2007,Materiais Básicos,placebo_reacao,-0.013338503604849715,10
+1,2007,Outros,placebo_antecip,-0.21953450465468946,44
+1,2007,Outros,placebo_reacao,-0.035139103439759956,10
+1,2007,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.8861787449241793,44
+1,2007,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.20042391966617806,10
+1,2007,Saúde,placebo_antecip,2.239646598204198,44
+1,2007,Saúde,placebo_reacao,-0.012866731726636702,10
+1,2007,Utilidade Pública,placebo_antecip,-0.0976618062961863,44
+1,2007,Utilidade Pública,placebo_reacao,-0.019494870661112898,10
+2,2019,Bens Industriais,placebo_antecip,-0.024192161290224445,45
+2,2019,Bens Industriais,placebo_reacao,0.01030379254268492,11
+2,2019,Comunicações,placebo_antecip,-0.029851731034534767,45
+2,2019,Comunicações,placebo_reacao,-0.00945166364823885,11
+2,2019,Construção e Transporte,placebo_antecip,-0.05809501790579635,45
+2,2019,Construção e Transporte,placebo_reacao,-0.001149569793370532,11
+2,2019,Consumo Cíclico,placebo_antecip,0.00893369897411732,45
+2,2019,Consumo Cíclico,placebo_reacao,-0.00041286996105402386,11
+2,2019,Consumo Não Cíclico,placebo_antecip,-0.004067852872783886,45
+2,2019,Consumo Não Cíclico,placebo_reacao,-0.023087232630306286,11
+2,2019,Financeiro,placebo_antecip,-0.049829367319431175,45
+2,2019,Financeiro,placebo_reacao,0.007092660995299687,11
+2,2019,Materiais Básicos,placebo_antecip,-0.06796701406478886,45
+2,2019,Materiais Básicos,placebo_reacao,0.002520722025035931,11
+2,2019,Outros,placebo_antecip,0.2474371507399804,45
+2,2019,Outros,placebo_reacao,-0.029568018426481883,11
+2,2019,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.05761103512070127,45
+2,2019,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.008950530632815229,11
+2,2019,Saúde,placebo_antecip,0.07036243408251913,45
+2,2019,Saúde,placebo_reacao,-0.01650033696511909,11
+2,2019,Utilidade Pública,placebo_antecip,0.04283103124957032,45
+2,2019,Utilidade Pública,placebo_reacao,-0.034890297340081255,11
+3,2021,Bens Industriais,placebo_antecip,-0.1391397834617836,45
+3,2021,Bens Industriais,placebo_reacao,-0.06114799820589918,11
+3,2021,Comunicações,placebo_antecip,-0.21651465062870195,45
+3,2021,Comunicações,placebo_reacao,-0.060392812664231105,11
+3,2021,Construção e Transporte,placebo_antecip,-0.10053319328507798,45
+3,2021,Construção e Transporte,placebo_reacao,-0.003982320511207624,11
+3,2021,Consumo Cíclico,placebo_antecip,-0.10425131402818341,45
+3,2021,Consumo Cíclico,placebo_reacao,-0.039822463523599604,11
+3,2021,Consumo Não Cíclico,placebo_antecip,-0.0573063292087133,45
+3,2021,Consumo Não Cíclico,placebo_reacao,-0.018857014200380454,11
+3,2021,Financeiro,placebo_antecip,-0.057355651319438414,45
+3,2021,Financeiro,placebo_reacao,-0.0304158547240246,11
+3,2021,Materiais Básicos,placebo_antecip,-0.17401085281362477,45
+3,2021,Materiais Básicos,placebo_reacao,-0.011898989532014709,11
+3,2021,Outros,placebo_antecip,-0.1443400925928149,45
+3,2021,Outros,placebo_reacao,-0.0029190437781755653,11
+3,2021,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.08678025607708285,45
+3,2021,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.0022642223458207364,11
+3,2021,Saúde,placebo_antecip,-0.04018388413868364,45
+3,2021,Saúde,placebo_reacao,-0.08535520267722937,11
+3,2021,Utilidade Pública,placebo_antecip,-0.010887069174067975,45
+3,2021,Utilidade Pública,placebo_reacao,-0.004882416586574052,11
+4,2016,Bens Industriais,placebo_antecip,-0.08654534520697509,45
+4,2016,Bens Industriais,placebo_reacao,-0.015617662747976923,11
+4,2016,Comunicações,placebo_antecip,0.03828185176939468,44
+4,2016,Comunicações,placebo_reacao,-0.014547477188411897,10
+4,2016,Construção e Transporte,placebo_antecip,-0.11894264630881471,44
+4,2016,Construção e Transporte,placebo_reacao,-0.02782451574933817,10
+4,2016,Consumo Cíclico,placebo_antecip,-0.01891530424292991,44
+4,2016,Consumo Cíclico,placebo_reacao,-0.01446436787950331,10
+4,2016,Consumo Não Cíclico,placebo_antecip,0.025487860998212188,44
+4,2016,Consumo Não Cíclico,placebo_reacao,0.00497034644828913,10
+4,2016,Financeiro,placebo_antecip,-0.037327750142726185,44
+4,2016,Financeiro,placebo_reacao,-0.010355676709359414,10
+4,2016,Materiais Básicos,placebo_antecip,-0.005141221984744352,44
+4,2016,Materiais Básicos,placebo_reacao,-0.015065515987840797,10
+4,2016,Outros,placebo_antecip,-0.0479588324399019,44
+4,2016,Outros,placebo_reacao,0.004323297075815985,10
+4,2016,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.005321154424494886,44
+4,2016,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.019209604302132602,10
+4,2016,Saúde,placebo_antecip,0.03334153778939508,44
+4,2016,Saúde,placebo_reacao,-0.06766072229009332,10
+4,2016,Utilidade Pública,placebo_antecip,-0.01837234182988987,44
+4,2016,Utilidade Pública,placebo_reacao,-0.007590711536868789,10
+5,2012,Bens Industriais,placebo_antecip,0.05977906011325102,45
+5,2012,Bens Industriais,placebo_reacao,-0.009222530374509607,11
+5,2012,Comunicações,placebo_antecip,-0.014721556513366584,44
+5,2012,Comunicações,placebo_reacao,0.08026396413238149,10
+5,2012,Construção e Transporte,placebo_antecip,0.027166238011931826,44
+5,2012,Construção e Transporte,placebo_reacao,0.02007245808897484,10
+5,2012,Consumo Cíclico,placebo_antecip,0.088770912383533,44
+5,2012,Consumo Cíclico,placebo_reacao,0.029335790578994766,10
+5,2012,Consumo Não Cíclico,placebo_antecip,0.028982331056672757,44
+5,2012,Consumo Não Cíclico,placebo_reacao,-0.021827913424889378,10
+5,2012,Financeiro,placebo_antecip,-0.01322605675699809,44
+5,2012,Financeiro,placebo_reacao,-0.018185302300552104,10
+5,2012,Materiais Básicos,placebo_antecip,0.006403379913346573,44
+5,2012,Materiais Básicos,placebo_reacao,0.010880703428874965,10
+5,2012,Outros,placebo_antecip,0.20577495754168865,44
+5,2012,Outros,placebo_reacao,-0.017428627383082575,10
+5,2012,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.014518519110150164,44
+5,2012,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.03926699503913455,10
+5,2012,Saúde,placebo_antecip,0.023112511396929103,44
+5,2012,Saúde,placebo_reacao,0.04540982492434982,10
+5,2012,Utilidade Pública,placebo_antecip,-0.07669788832209774,44
+5,2012,Utilidade Pública,placebo_reacao,-0.02198429206696275,10
+6,2019,Bens Industriais,placebo_antecip,-0.024192161290224445,45
+6,2019,Bens Industriais,placebo_reacao,0.01030379254268492,11
+6,2019,Comunicações,placebo_antecip,-0.029851731034534767,45
+6,2019,Comunicações,placebo_reacao,-0.00945166364823885,11
+6,2019,Construção e Transporte,placebo_antecip,-0.05809501790579635,45
+6,2019,Construção e Transporte,placebo_reacao,-0.001149569793370532,11
+6,2019,Consumo Cíclico,placebo_antecip,0.00893369897411732,45
+6,2019,Consumo Cíclico,placebo_reacao,-0.00041286996105402386,11
+6,2019,Consumo Não Cíclico,placebo_antecip,-0.004067852872783886,45
+6,2019,Consumo Não Cíclico,placebo_reacao,-0.023087232630306286,11
+6,2019,Financeiro,placebo_antecip,-0.049829367319431175,45
+6,2019,Financeiro,placebo_reacao,0.007092660995299687,11
+6,2019,Materiais Básicos,placebo_antecip,-0.06796701406478886,45
+6,2019,Materiais Básicos,placebo_reacao,0.002520722025035931,11
+6,2019,Outros,placebo_antecip,0.2474371507399804,45
+6,2019,Outros,placebo_reacao,-0.029568018426481883,11
+6,2019,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.05761103512070127,45
+6,2019,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.008950530632815229,11
+6,2019,Saúde,placebo_antecip,0.07036243408251913,45
+6,2019,Saúde,placebo_reacao,-0.01650033696511909,11
+6,2019,Utilidade Pública,placebo_antecip,0.04283103124957032,45
+6,2019,Utilidade Pública,placebo_reacao,-0.034890297340081255,11
+7,2008,Bens Industriais,placebo_antecip,-0.34302714877918733,45
+7,2008,Bens Industriais,placebo_reacao,-0.19275672081805428,11
+7,2008,Comunicações,placebo_antecip,-0.16691230113236996,45
+7,2008,Comunicações,placebo_reacao,-0.17063662514821434,11
+7,2008,Construção e Transporte,placebo_antecip,-0.2640959848101672,45
+7,2008,Construção e Transporte,placebo_reacao,-0.1202823157030181,11
+7,2008,Consumo Cíclico,placebo_antecip,-0.13967194505276054,45
+7,2008,Consumo Cíclico,placebo_reacao,-0.09960955822397663,11
+7,2008,Consumo Não Cíclico,placebo_antecip,-0.34182639366470546,45
+7,2008,Consumo Não Cíclico,placebo_reacao,-0.10979587026223583,11
+7,2008,Financeiro,placebo_antecip,0.09398165893885516,45
+7,2008,Financeiro,placebo_reacao,0.015593696076357522,11
+7,2008,Materiais Básicos,placebo_antecip,-0.18109630023179443,45
+7,2008,Materiais Básicos,placebo_reacao,-0.13964742603334568,11
+7,2008,Outros,placebo_antecip,0.11242207674600611,45
+7,2008,Outros,placebo_reacao,0.036967780013247215,11
+7,2008,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.02947893719907551,45
+7,2008,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.06828432801201931,11
+7,2008,Saúde,placebo_antecip,-0.20147125094438928,45
+7,2008,Saúde,placebo_reacao,-0.06825466643819647,11
+7,2008,Utilidade Pública,placebo_antecip,-0.11306012984508935,45
+7,2008,Utilidade Pública,placebo_reacao,-0.06863012074068456,11
+8,2011,Bens Industriais,placebo_antecip,-0.022190299525799283,45
+8,2011,Bens Industriais,placebo_reacao,-0.04386437438549047,11
+8,2011,Comunicações,placebo_antecip,0.07649746674775146,44
+8,2011,Comunicações,placebo_reacao,-0.039211219045531556,10
+8,2011,Construção e Transporte,placebo_antecip,-0.07990359971098548,44
+8,2011,Construção e Transporte,placebo_reacao,-0.004222045719596877,10
+8,2011,Consumo Cíclico,placebo_antecip,-0.06648843150120583,44
+8,2011,Consumo Cíclico,placebo_reacao,-0.0375573741303187,10
+8,2011,Consumo Não Cíclico,placebo_antecip,-0.019707406105146544,44
+8,2011,Consumo Não Cíclico,placebo_reacao,-0.013083214439400769,10
+8,2011,Financeiro,placebo_antecip,0.001698737815663114,44
+8,2011,Financeiro,placebo_reacao,-0.004575387729136552,10
+8,2011,Materiais Básicos,placebo_antecip,-0.04241279975463374,44
+8,2011,Materiais Básicos,placebo_reacao,-0.01669762753136042,10
+8,2011,Outros,placebo_antecip,-0.02331432536850203,44
+8,2011,Outros,placebo_reacao,-0.04749068736394501,10
+8,2011,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.21323982900075508,44
+8,2011,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.0540405878664062,10
+8,2011,Saúde,placebo_antecip,-0.058241678005289926,44
+8,2011,Saúde,placebo_reacao,-0.0434041641540905,10
+8,2011,Utilidade Pública,placebo_antecip,0.05413941705147274,44
+8,2011,Utilidade Pública,placebo_reacao,0.022433945008429185,10
+9,2015,Bens Industriais,placebo_antecip,0.002813124534554021,45
+9,2015,Bens Industriais,placebo_reacao,0.04959686110834663,11
+9,2015,Comunicações,placebo_antecip,-0.11633395086905468,45
+9,2015,Comunicações,placebo_reacao,0.041264022048742965,10
+9,2015,Construção e Transporte,placebo_antecip,-0.0659077895495574,45
+9,2015,Construção e Transporte,placebo_reacao,0.04817888486911544,10
+9,2015,Consumo Cíclico,placebo_antecip,-0.07952537558624267,45
+9,2015,Consumo Cíclico,placebo_reacao,0.041849858128909644,10
+9,2015,Consumo Não Cíclico,placebo_antecip,0.0024125932676506597,45
+9,2015,Consumo Não Cíclico,placebo_reacao,0.048446676864872106,10
+9,2015,Financeiro,placebo_antecip,-0.01165129501323817,45
+9,2015,Financeiro,placebo_reacao,0.010270092778176398,10
+9,2015,Materiais Básicos,placebo_antecip,0.02017613755732302,45
+9,2015,Materiais Básicos,placebo_reacao,0.04529631336243263,10
+9,2015,Outros,placebo_antecip,0.01889159734074182,45
+9,2015,Outros,placebo_reacao,0.043886048480949624,10
+9,2015,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.1807534053163141,45
+9,2015,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.02408283789067761,10
+9,2015,Saúde,placebo_antecip,-0.08016250904998536,45
+9,2015,Saúde,placebo_reacao,0.041222810234152085,10
+9,2015,Utilidade Pública,placebo_antecip,-0.024843843365750816,45
+9,2015,Utilidade Pública,placebo_reacao,0.03585642516675705,10
+10,2005,Bens Industriais,placebo_antecip,-0.14734812498905833,45
+10,2005,Bens Industriais,placebo_reacao,-0.012718727074393784,11
+10,2005,Comunicações,placebo_antecip,0.010207997009917206,45
+10,2005,Comunicações,placebo_reacao,0.04600032715157951,11
+10,2005,Construção e Transporte,placebo_antecip,0.04928033765505906,45
+10,2005,Construção e Transporte,placebo_reacao,0.0346272891486207,11
+10,2005,Consumo Cíclico,placebo_antecip,0.05929904744428919,45
+10,2005,Consumo Cíclico,placebo_reacao,0.02277666860704489,11
+10,2005,Consumo Não Cíclico,placebo_antecip,0.039560110175269836,45
+10,2005,Consumo Não Cíclico,placebo_reacao,0.07523567014860197,11
+10,2005,Financeiro,placebo_antecip,0.044308885268119574,45
+10,2005,Financeiro,placebo_reacao,0.021651360349327433,11
+10,2005,Materiais Básicos,placebo_antecip,-0.0025805405446521204,45
+10,2005,Materiais Básicos,placebo_reacao,-0.05572889621534667,11
+10,2005,Outros,placebo_antecip,-0.057904394749602975,45
+10,2005,Outros,placebo_reacao,-0.03263052055484659,11
+10,2005,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.015999924510954833,45
+10,2005,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.004467304625920712,11
+10,2005,Saúde,placebo_antecip,0.054588542057664016,45
+10,2005,Saúde,placebo_reacao,0.029187056720245554,11
+10,2005,Utilidade Pública,placebo_antecip,0.009939498891588095,45
+10,2005,Utilidade Pública,placebo_reacao,0.03757163904310021,11
+11,2011,Bens Industriais,placebo_antecip,-0.022190299525799283,45
+11,2011,Bens Industriais,placebo_reacao,-0.04386437438549047,11
+11,2011,Comunicações,placebo_antecip,0.07649746674775146,44
+11,2011,Comunicações,placebo_reacao,-0.039211219045531556,10
+11,2011,Construção e Transporte,placebo_antecip,-0.07990359971098548,44
+11,2011,Construção e Transporte,placebo_reacao,-0.004222045719596877,10
+11,2011,Consumo Cíclico,placebo_antecip,-0.06648843150120583,44
+11,2011,Consumo Cíclico,placebo_reacao,-0.0375573741303187,10
+11,2011,Consumo Não Cíclico,placebo_antecip,-0.019707406105146544,44
+11,2011,Consumo Não Cíclico,placebo_reacao,-0.013083214439400769,10
+11,2011,Financeiro,placebo_antecip,0.001698737815663114,44
+11,2011,Financeiro,placebo_reacao,-0.004575387729136552,10
+11,2011,Materiais Básicos,placebo_antecip,-0.04241279975463374,44
+11,2011,Materiais Básicos,placebo_reacao,-0.01669762753136042,10
+11,2011,Outros,placebo_antecip,-0.02331432536850203,44
+11,2011,Outros,placebo_reacao,-0.04749068736394501,10
+11,2011,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.21323982900075508,44
+11,2011,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.0540405878664062,10
+11,2011,Saúde,placebo_antecip,-0.058241678005289926,44
+11,2011,Saúde,placebo_reacao,-0.0434041641540905,10
+11,2011,Utilidade Pública,placebo_antecip,0.05413941705147274,44
+11,2011,Utilidade Pública,placebo_reacao,0.022433945008429185,10
+12,2016,Bens Industriais,placebo_antecip,-0.08654534520697509,45
+12,2016,Bens Industriais,placebo_reacao,-0.015617662747976923,11
+12,2016,Comunicações,placebo_antecip,0.03828185176939468,44
+12,2016,Comunicações,placebo_reacao,-0.014547477188411897,10
+12,2016,Construção e Transporte,placebo_antecip,-0.11894264630881471,44
+12,2016,Construção e Transporte,placebo_reacao,-0.02782451574933817,10
+12,2016,Consumo Cíclico,placebo_antecip,-0.01891530424292991,44
+12,2016,Consumo Cíclico,placebo_reacao,-0.01446436787950331,10
+12,2016,Consumo Não Cíclico,placebo_antecip,0.025487860998212188,44
+12,2016,Consumo Não Cíclico,placebo_reacao,0.00497034644828913,10
+12,2016,Financeiro,placebo_antecip,-0.037327750142726185,44
+12,2016,Financeiro,placebo_reacao,-0.010355676709359414,10
+12,2016,Materiais Básicos,placebo_antecip,-0.005141221984744352,44
+12,2016,Materiais Básicos,placebo_reacao,-0.015065515987840797,10
+12,2016,Outros,placebo_antecip,-0.0479588324399019,44
+12,2016,Outros,placebo_reacao,0.004323297075815985,10
+12,2016,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.005321154424494886,44
+12,2016,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.019209604302132602,10
+12,2016,Saúde,placebo_antecip,0.03334153778939508,44
+12,2016,Saúde,placebo_reacao,-0.06766072229009332,10
+12,2016,Utilidade Pública,placebo_antecip,-0.01837234182988987,44
+12,2016,Utilidade Pública,placebo_reacao,-0.007590711536868789,10
+13,2016,Bens Industriais,placebo_antecip,-0.08654534520697509,45
+13,2016,Bens Industriais,placebo_reacao,-0.015617662747976923,11
+13,2016,Comunicações,placebo_antecip,0.03828185176939468,44
+13,2016,Comunicações,placebo_reacao,-0.014547477188411897,10
+13,2016,Construção e Transporte,placebo_antecip,-0.11894264630881471,44
+13,2016,Construção e Transporte,placebo_reacao,-0.02782451574933817,10
+13,2016,Consumo Cíclico,placebo_antecip,-0.01891530424292991,44
+13,2016,Consumo Cíclico,placebo_reacao,-0.01446436787950331,10
+13,2016,Consumo Não Cíclico,placebo_antecip,0.025487860998212188,44
+13,2016,Consumo Não Cíclico,placebo_reacao,0.00497034644828913,10
+13,2016,Financeiro,placebo_antecip,-0.037327750142726185,44
+13,2016,Financeiro,placebo_reacao,-0.010355676709359414,10
+13,2016,Materiais Básicos,placebo_antecip,-0.005141221984744352,44
+13,2016,Materiais Básicos,placebo_reacao,-0.015065515987840797,10
+13,2016,Outros,placebo_antecip,-0.0479588324399019,44
+13,2016,Outros,placebo_reacao,0.004323297075815985,10
+13,2016,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.005321154424494886,44
+13,2016,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.019209604302132602,10
+13,2016,Saúde,placebo_antecip,0.03334153778939508,44
+13,2016,Saúde,placebo_reacao,-0.06766072229009332,10
+13,2016,Utilidade Pública,placebo_antecip,-0.01837234182988987,44
+13,2016,Utilidade Pública,placebo_reacao,-0.007590711536868789,10
+14,2012,Bens Industriais,placebo_antecip,0.05977906011325102,45
+14,2012,Bens Industriais,placebo_reacao,-0.009222530374509607,11
+14,2012,Comunicações,placebo_antecip,-0.014721556513366584,44
+14,2012,Comunicações,placebo_reacao,0.08026396413238149,10
+14,2012,Construção e Transporte,placebo_antecip,0.027166238011931826,44
+14,2012,Construção e Transporte,placebo_reacao,0.02007245808897484,10
+14,2012,Consumo Cíclico,placebo_antecip,0.088770912383533,44
+14,2012,Consumo Cíclico,placebo_reacao,0.029335790578994766,10
+14,2012,Consumo Não Cíclico,placebo_antecip,0.028982331056672757,44
+14,2012,Consumo Não Cíclico,placebo_reacao,-0.021827913424889378,10
+14,2012,Financeiro,placebo_antecip,-0.01322605675699809,44
+14,2012,Financeiro,placebo_reacao,-0.018185302300552104,10
+14,2012,Materiais Básicos,placebo_antecip,0.006403379913346573,44
+14,2012,Materiais Básicos,placebo_reacao,0.010880703428874965,10
+14,2012,Outros,placebo_antecip,0.20577495754168865,44
+14,2012,Outros,placebo_reacao,-0.017428627383082575,10
+14,2012,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.014518519110150164,44
+14,2012,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.03926699503913455,10
+14,2012,Saúde,placebo_antecip,0.023112511396929103,44
+14,2012,Saúde,placebo_reacao,0.04540982492434982,10
+14,2012,Utilidade Pública,placebo_antecip,-0.07669788832209774,44
+14,2012,Utilidade Pública,placebo_reacao,-0.02198429206696275,10
+15,2008,Bens Industriais,placebo_antecip,-0.34302714877918733,45
+15,2008,Bens Industriais,placebo_reacao,-0.19275672081805428,11
+15,2008,Comunicações,placebo_antecip,-0.16691230113236996,45
+15,2008,Comunicações,placebo_reacao,-0.17063662514821434,11
+15,2008,Construção e Transporte,placebo_antecip,-0.2640959848101672,45
+15,2008,Construção e Transporte,placebo_reacao,-0.1202823157030181,11
+15,2008,Consumo Cíclico,placebo_antecip,-0.13967194505276054,45
+15,2008,Consumo Cíclico,placebo_reacao,-0.09960955822397663,11
+15,2008,Consumo Não Cíclico,placebo_antecip,-0.34182639366470546,45
+15,2008,Consumo Não Cíclico,placebo_reacao,-0.10979587026223583,11
+15,2008,Financeiro,placebo_antecip,0.09398165893885516,45
+15,2008,Financeiro,placebo_reacao,0.015593696076357522,11
+15,2008,Materiais Básicos,placebo_antecip,-0.18109630023179443,45
+15,2008,Materiais Básicos,placebo_reacao,-0.13964742603334568,11
+15,2008,Outros,placebo_antecip,0.11242207674600611,45
+15,2008,Outros,placebo_reacao,0.036967780013247215,11
+15,2008,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.02947893719907551,45
+15,2008,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.06828432801201931,11
+15,2008,Saúde,placebo_antecip,-0.20147125094438928,45
+15,2008,Saúde,placebo_reacao,-0.06825466643819647,11
+15,2008,Utilidade Pública,placebo_antecip,-0.11306012984508935,45
+15,2008,Utilidade Pública,placebo_reacao,-0.06863012074068456,11
+16,2007,Bens Industriais,placebo_antecip,-0.10608524537352518,45
+16,2007,Bens Industriais,placebo_reacao,0.24752876482900868,11
+16,2007,Comunicações,placebo_antecip,-0.14479545044657788,44
+16,2007,Comunicações,placebo_reacao,0.008968049259372893,10
+16,2007,Construção e Transporte,placebo_antecip,-0.10061743015435146,44
+16,2007,Construção e Transporte,placebo_reacao,-0.029254728180560994,10
+16,2007,Consumo Cíclico,placebo_antecip,-0.012915206135545263,44
+16,2007,Consumo Cíclico,placebo_reacao,0.06445183856065946,10
+16,2007,Consumo Não Cíclico,placebo_antecip,-0.09183663100597966,44
+16,2007,Consumo Não Cíclico,placebo_reacao,0.025339940069309806,10
+16,2007,Financeiro,placebo_antecip,-0.17538650123647856,44
+16,2007,Financeiro,placebo_reacao,-0.013942748313546065,10
+16,2007,Materiais Básicos,placebo_antecip,-0.1269098731865971,44
+16,2007,Materiais Básicos,placebo_reacao,-0.013338503604849715,10
+16,2007,Outros,placebo_antecip,-0.21953450465468946,44
+16,2007,Outros,placebo_reacao,-0.035139103439759956,10
+16,2007,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.8861787449241793,44
+16,2007,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.20042391966617806,10
+16,2007,Saúde,placebo_antecip,2.239646598204198,44
+16,2007,Saúde,placebo_reacao,-0.012866731726636702,10
+16,2007,Utilidade Pública,placebo_antecip,-0.0976618062961863,44
+16,2007,Utilidade Pública,placebo_reacao,-0.019494870661112898,10
+17,2012,Bens Industriais,placebo_antecip,0.05977906011325102,45
+17,2012,Bens Industriais,placebo_reacao,-0.009222530374509607,11
+17,2012,Comunicações,placebo_antecip,-0.014721556513366584,44
+17,2012,Comunicações,placebo_reacao,0.08026396413238149,10
+17,2012,Construção e Transporte,placebo_antecip,0.027166238011931826,44
+17,2012,Construção e Transporte,placebo_reacao,0.02007245808897484,10
+17,2012,Consumo Cíclico,placebo_antecip,0.088770912383533,44
+17,2012,Consumo Cíclico,placebo_reacao,0.029335790578994766,10
+17,2012,Consumo Não Cíclico,placebo_antecip,0.028982331056672757,44
+17,2012,Consumo Não Cíclico,placebo_reacao,-0.021827913424889378,10
+17,2012,Financeiro,placebo_antecip,-0.01322605675699809,44
+17,2012,Financeiro,placebo_reacao,-0.018185302300552104,10
+17,2012,Materiais Básicos,placebo_antecip,0.006403379913346573,44
+17,2012,Materiais Básicos,placebo_reacao,0.010880703428874965,10
+17,2012,Outros,placebo_antecip,0.20577495754168865,44
+17,2012,Outros,placebo_reacao,-0.017428627383082575,10
+17,2012,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.014518519110150164,44
+17,2012,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.03926699503913455,10
+17,2012,Saúde,placebo_antecip,0.023112511396929103,44
+17,2012,Saúde,placebo_reacao,0.04540982492434982,10
+17,2012,Utilidade Pública,placebo_antecip,-0.07669788832209774,44
+17,2012,Utilidade Pública,placebo_reacao,-0.02198429206696275,10
+18,2012,Bens Industriais,placebo_antecip,0.05977906011325102,45
+18,2012,Bens Industriais,placebo_reacao,-0.009222530374509607,11
+18,2012,Comunicações,placebo_antecip,-0.014721556513366584,44
+18,2012,Comunicações,placebo_reacao,0.08026396413238149,10
+18,2012,Construção e Transporte,placebo_antecip,0.027166238011931826,44
+18,2012,Construção e Transporte,placebo_reacao,0.02007245808897484,10
+18,2012,Consumo Cíclico,placebo_antecip,0.088770912383533,44
+18,2012,Consumo Cíclico,placebo_reacao,0.029335790578994766,10
+18,2012,Consumo Não Cíclico,placebo_antecip,0.028982331056672757,44
+18,2012,Consumo Não Cíclico,placebo_reacao,-0.021827913424889378,10
+18,2012,Financeiro,placebo_antecip,-0.01322605675699809,44
+18,2012,Financeiro,placebo_reacao,-0.018185302300552104,10
+18,2012,Materiais Básicos,placebo_antecip,0.006403379913346573,44
+18,2012,Materiais Básicos,placebo_reacao,0.010880703428874965,10
+18,2012,Outros,placebo_antecip,0.20577495754168865,44
+18,2012,Outros,placebo_reacao,-0.017428627383082575,10
+18,2012,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.014518519110150164,44
+18,2012,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.03926699503913455,10
+18,2012,Saúde,placebo_antecip,0.023112511396929103,44
+18,2012,Saúde,placebo_reacao,0.04540982492434982,10
+18,2012,Utilidade Pública,placebo_antecip,-0.07669788832209774,44
+18,2012,Utilidade Pública,placebo_reacao,-0.02198429206696275,10
+19,2005,Bens Industriais,placebo_antecip,-0.14734812498905833,45
+19,2005,Bens Industriais,placebo_reacao,-0.012718727074393784,11
+19,2005,Comunicações,placebo_antecip,0.010207997009917206,45
+19,2005,Comunicações,placebo_reacao,0.04600032715157951,11
+19,2005,Construção e Transporte,placebo_antecip,0.04928033765505906,45
+19,2005,Construção e Transporte,placebo_reacao,0.0346272891486207,11
+19,2005,Consumo Cíclico,placebo_antecip,0.05929904744428919,45
+19,2005,Consumo Cíclico,placebo_reacao,0.02277666860704489,11
+19,2005,Consumo Não Cíclico,placebo_antecip,0.039560110175269836,45
+19,2005,Consumo Não Cíclico,placebo_reacao,0.07523567014860197,11
+19,2005,Financeiro,placebo_antecip,0.044308885268119574,45
+19,2005,Financeiro,placebo_reacao,0.021651360349327433,11
+19,2005,Materiais Básicos,placebo_antecip,-0.0025805405446521204,45
+19,2005,Materiais Básicos,placebo_reacao,-0.05572889621534667,11
+19,2005,Outros,placebo_antecip,-0.057904394749602975,45
+19,2005,Outros,placebo_reacao,-0.03263052055484659,11
+19,2005,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.015999924510954833,45
+19,2005,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.004467304625920712,11
+19,2005,Saúde,placebo_antecip,0.054588542057664016,45
+19,2005,Saúde,placebo_reacao,0.029187056720245554,11
+19,2005,Utilidade Pública,placebo_antecip,0.009939498891588095,45
+19,2005,Utilidade Pública,placebo_reacao,0.03757163904310021,11
+20,2009,Bens Industriais,placebo_antecip,0.08539281333144721,45
+20,2009,Bens Industriais,placebo_reacao,-0.058727287178736196,11
+20,2009,Comunicações,placebo_antecip,0.034430834280478356,45
+20,2009,Comunicações,placebo_reacao,0.05934310363862662,10
+20,2009,Construção e Transporte,placebo_antecip,0.03593871912234751,45
+20,2009,Construção e Transporte,placebo_reacao,-0.006638304865802474,10
+20,2009,Consumo Cíclico,placebo_antecip,0.051236362251125045,45
+20,2009,Consumo Cíclico,placebo_reacao,0.04245398778345962,10
+20,2009,Consumo Não Cíclico,placebo_antecip,0.02144055488604127,45
+20,2009,Consumo Não Cíclico,placebo_reacao,-0.0020242347594627056,10
+20,2009,Financeiro,placebo_antecip,0.09082497933054816,45
+20,2009,Financeiro,placebo_reacao,0.009850367592237893,10
+20,2009,Materiais Básicos,placebo_antecip,0.10902780614617685,45
+20,2009,Materiais Básicos,placebo_reacao,0.03351189740605138,10
+20,2009,Outros,placebo_antecip,0.06609562103023174,45
+20,2009,Outros,placebo_reacao,0.010707351666748025,10
+20,2009,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.009524774296561933,45
+20,2009,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.05808561971149035,10
+20,2009,Saúde,placebo_antecip,0.14311309068037578,45
+20,2009,Saúde,placebo_reacao,0.030612507848081838,10
+20,2009,Utilidade Pública,placebo_antecip,0.01122642207347098,45
+20,2009,Utilidade Pública,placebo_reacao,0.018856520982903455,10
+21,2008,Bens Industriais,placebo_antecip,-0.34302714877918733,45
+21,2008,Bens Industriais,placebo_reacao,-0.19275672081805428,11
+21,2008,Comunicações,placebo_antecip,-0.16691230113236996,45
+21,2008,Comunicações,placebo_reacao,-0.17063662514821434,11
+21,2008,Construção e Transporte,placebo_antecip,-0.2640959848101672,45
+21,2008,Construção e Transporte,placebo_reacao,-0.1202823157030181,11
+21,2008,Consumo Cíclico,placebo_antecip,-0.13967194505276054,45
+21,2008,Consumo Cíclico,placebo_reacao,-0.09960955822397663,11
+21,2008,Consumo Não Cíclico,placebo_antecip,-0.34182639366470546,45
+21,2008,Consumo Não Cíclico,placebo_reacao,-0.10979587026223583,11
+21,2008,Financeiro,placebo_antecip,0.09398165893885516,45
+21,2008,Financeiro,placebo_reacao,0.015593696076357522,11
+21,2008,Materiais Básicos,placebo_antecip,-0.18109630023179443,45
+21,2008,Materiais Básicos,placebo_reacao,-0.13964742603334568,11
+21,2008,Outros,placebo_antecip,0.11242207674600611,45
+21,2008,Outros,placebo_reacao,0.036967780013247215,11
+21,2008,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.02947893719907551,45
+21,2008,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.06828432801201931,11
+21,2008,Saúde,placebo_antecip,-0.20147125094438928,45
+21,2008,Saúde,placebo_reacao,-0.06825466643819647,11
+21,2008,Utilidade Pública,placebo_antecip,-0.11306012984508935,45
+21,2008,Utilidade Pública,placebo_reacao,-0.06863012074068456,11
+22,2004,Bens Industriais,placebo_antecip,0.14656371605210794,45
+22,2004,Bens Industriais,placebo_reacao,-0.004340745326147772,11
+22,2004,Comunicações,placebo_antecip,0.24937338215720894,45
+22,2004,Comunicações,placebo_reacao,0.005463972681305298,11
+22,2004,Construção e Transporte,placebo_antecip,-0.0054017438973288645,45
+22,2004,Construção e Transporte,placebo_reacao,-0.002801199355572586,11
+22,2004,Consumo Cíclico,placebo_antecip,0.01378647478190498,45
+22,2004,Consumo Cíclico,placebo_reacao,0.0037870875056402187,11
+22,2004,Consumo Não Cíclico,placebo_antecip,0.6849310745371743,45
+22,2004,Consumo Não Cíclico,placebo_reacao,0.1676131033876362,11
+22,2004,Financeiro,placebo_antecip,0.1988147177445398,45
+22,2004,Financeiro,placebo_reacao,-0.12228405530909137,11
+22,2004,Materiais Básicos,placebo_antecip,0.19066107887731762,45
+22,2004,Materiais Básicos,placebo_reacao,0.02820111615125401,11
+22,2004,Outros,placebo_antecip,0.22285982012381256,45
+22,2004,Outros,placebo_reacao,0.1847262180508345,11
+22,2004,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.08934229718847227,45
+22,2004,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.010345059889149976,11
+22,2004,Saúde,placebo_antecip,0.1193973203405274,45
+22,2004,Saúde,placebo_reacao,0.029224694925231866,11
+22,2004,Utilidade Pública,placebo_antecip,0.008192363266880288,45
+22,2004,Utilidade Pública,placebo_reacao,0.013336967512660136,11
+23,2012,Bens Industriais,placebo_antecip,0.05977906011325102,45
+23,2012,Bens Industriais,placebo_reacao,-0.009222530374509607,11
+23,2012,Comunicações,placebo_antecip,-0.014721556513366584,44
+23,2012,Comunicações,placebo_reacao,0.08026396413238149,10
+23,2012,Construção e Transporte,placebo_antecip,0.027166238011931826,44
+23,2012,Construção e Transporte,placebo_reacao,0.02007245808897484,10
+23,2012,Consumo Cíclico,placebo_antecip,0.088770912383533,44
+23,2012,Consumo Cíclico,placebo_reacao,0.029335790578994766,10
+23,2012,Consumo Não Cíclico,placebo_antecip,0.028982331056672757,44
+23,2012,Consumo Não Cíclico,placebo_reacao,-0.021827913424889378,10
+23,2012,Financeiro,placebo_antecip,-0.01322605675699809,44
+23,2012,Financeiro,placebo_reacao,-0.018185302300552104,10
+23,2012,Materiais Básicos,placebo_antecip,0.006403379913346573,44
+23,2012,Materiais Básicos,placebo_reacao,0.010880703428874965,10
+23,2012,Outros,placebo_antecip,0.20577495754168865,44
+23,2012,Outros,placebo_reacao,-0.017428627383082575,10
+23,2012,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.014518519110150164,44
+23,2012,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.03926699503913455,10
+23,2012,Saúde,placebo_antecip,0.023112511396929103,44
+23,2012,Saúde,placebo_reacao,0.04540982492434982,10
+23,2012,Utilidade Pública,placebo_antecip,-0.07669788832209774,44
+23,2012,Utilidade Pública,placebo_reacao,-0.02198429206696275,10
+24,2017,Bens Industriais,placebo_antecip,0.23238885074622465,45
+24,2017,Bens Industriais,placebo_reacao,0.05938087446195836,11
+24,2017,Comunicações,placebo_antecip,-0.10520445971408128,45
+24,2017,Comunicações,placebo_reacao,0.0026470061311014478,11
+24,2017,Construção e Transporte,placebo_antecip,0.040713163046488685,45
+24,2017,Construção e Transporte,placebo_reacao,0.006575341135759791,11
+24,2017,Consumo Cíclico,placebo_antecip,0.01664891882755319,45
+24,2017,Consumo Cíclico,placebo_reacao,0.002548240439385868,11
+24,2017,Consumo Não Cíclico,placebo_antecip,-0.00691513452577543,45
+24,2017,Consumo Não Cíclico,placebo_reacao,-0.001661768138784059,11
+24,2017,Financeiro,placebo_antecip,-0.013181129592810557,45
+24,2017,Financeiro,placebo_reacao,-0.012493156876348123,11
+24,2017,Materiais Básicos,placebo_antecip,-0.03201287111695489,45
+24,2017,Materiais Básicos,placebo_reacao,-0.004970679141854616,11
+24,2017,Outros,placebo_antecip,0.07955257425379952,45
+24,2017,Outros,placebo_reacao,-0.005068229232246835,11
+24,2017,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.03349241913806458,45
+24,2017,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.01766186187435247,11
+24,2017,Saúde,placebo_antecip,-0.016224923297004295,45
+24,2017,Saúde,placebo_reacao,-0.03869499333775888,11
+24,2017,Utilidade Pública,placebo_antecip,-0.08193078666005703,45
+24,2017,Utilidade Pública,placebo_reacao,-0.025233442787267454,11
+25,2020,Bens Industriais,placebo_antecip,-0.05220703180014831,45
+25,2020,Bens Industriais,placebo_reacao,-0.010590146946048705,11
+25,2020,Comunicações,placebo_antecip,-0.10485640099005601,45
+25,2020,Comunicações,placebo_reacao,-0.008484007254443105,11
+25,2020,Construção e Transporte,placebo_antecip,0.013834063524505258,45
+25,2020,Construção e Transporte,placebo_reacao,0.010070624170060166,11
+25,2020,Consumo Cíclico,placebo_antecip,0.0015684284570028966,45
+25,2020,Consumo Cíclico,placebo_reacao,-0.00045904065750485695,11
+25,2020,Consumo Não Cíclico,placebo_antecip,0.03921850710009196,45
+25,2020,Consumo Não Cíclico,placebo_reacao,0.007621027874929184,11
+25,2020,Financeiro,placebo_antecip,-0.015679766205140458,45
+25,2020,Financeiro,placebo_reacao,-0.007071736508551098,11
+25,2020,Materiais Básicos,placebo_antecip,0.04176414498288646,45
+25,2020,Materiais Básicos,placebo_reacao,-0.003888546648312241,11
+25,2020,Outros,placebo_antecip,0.10095680233562108,45
+25,2020,Outros,placebo_reacao,0.18624716301489752,11
+25,2020,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.020200186435386357,45
+25,2020,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.06676380404879684,11
+25,2020,Saúde,placebo_antecip,-0.004677495291088078,45
+25,2020,Saúde,placebo_reacao,-0.000799598478156941,11
+25,2020,Utilidade Pública,placebo_antecip,-0.0024015744195320533,45
+25,2020,Utilidade Pública,placebo_reacao,-0.0015953836709406213,11
+26,2009,Bens Industriais,placebo_antecip,0.08539281333144721,45
+26,2009,Bens Industriais,placebo_reacao,-0.058727287178736196,11
+26,2009,Comunicações,placebo_antecip,0.034430834280478356,45
+26,2009,Comunicações,placebo_reacao,0.05934310363862662,10
+26,2009,Construção e Transporte,placebo_antecip,0.03593871912234751,45
+26,2009,Construção e Transporte,placebo_reacao,-0.006638304865802474,10
+26,2009,Consumo Cíclico,placebo_antecip,0.051236362251125045,45
+26,2009,Consumo Cíclico,placebo_reacao,0.04245398778345962,10
+26,2009,Consumo Não Cíclico,placebo_antecip,0.02144055488604127,45
+26,2009,Consumo Não Cíclico,placebo_reacao,-0.0020242347594627056,10
+26,2009,Financeiro,placebo_antecip,0.09082497933054816,45
+26,2009,Financeiro,placebo_reacao,0.009850367592237893,10
+26,2009,Materiais Básicos,placebo_antecip,0.10902780614617685,45
+26,2009,Materiais Básicos,placebo_reacao,0.03351189740605138,10
+26,2009,Outros,placebo_antecip,0.06609562103023174,45
+26,2009,Outros,placebo_reacao,0.010707351666748025,10
+26,2009,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.009524774296561933,45
+26,2009,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.05808561971149035,10
+26,2009,Saúde,placebo_antecip,0.14311309068037578,45
+26,2009,Saúde,placebo_reacao,0.030612507848081838,10
+26,2009,Utilidade Pública,placebo_antecip,0.01122642207347098,45
+26,2009,Utilidade Pública,placebo_reacao,0.018856520982903455,10
+27,2004,Bens Industriais,placebo_antecip,0.14656371605210794,45
+27,2004,Bens Industriais,placebo_reacao,-0.004340745326147772,11
+27,2004,Comunicações,placebo_antecip,0.24937338215720894,45
+27,2004,Comunicações,placebo_reacao,0.005463972681305298,11
+27,2004,Construção e Transporte,placebo_antecip,-0.0054017438973288645,45
+27,2004,Construção e Transporte,placebo_reacao,-0.002801199355572586,11
+27,2004,Consumo Cíclico,placebo_antecip,0.01378647478190498,45
+27,2004,Consumo Cíclico,placebo_reacao,0.0037870875056402187,11
+27,2004,Consumo Não Cíclico,placebo_antecip,0.6849310745371743,45
+27,2004,Consumo Não Cíclico,placebo_reacao,0.1676131033876362,11
+27,2004,Financeiro,placebo_antecip,0.1988147177445398,45
+27,2004,Financeiro,placebo_reacao,-0.12228405530909137,11
+27,2004,Materiais Básicos,placebo_antecip,0.19066107887731762,45
+27,2004,Materiais Básicos,placebo_reacao,0.02820111615125401,11
+27,2004,Outros,placebo_antecip,0.22285982012381256,45
+27,2004,Outros,placebo_reacao,0.1847262180508345,11
+27,2004,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.08934229718847227,45
+27,2004,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.010345059889149976,11
+27,2004,Saúde,placebo_antecip,0.1193973203405274,45
+27,2004,Saúde,placebo_reacao,0.029224694925231866,11
+27,2004,Utilidade Pública,placebo_antecip,0.008192363266880288,45
+27,2004,Utilidade Pública,placebo_reacao,0.013336967512660136,11
+28,2017,Bens Industriais,placebo_antecip,0.23238885074622465,45
+28,2017,Bens Industriais,placebo_reacao,0.05938087446195836,11
+28,2017,Comunicações,placebo_antecip,-0.10520445971408128,45
+28,2017,Comunicações,placebo_reacao,0.0026470061311014478,11
+28,2017,Construção e Transporte,placebo_antecip,0.040713163046488685,45
+28,2017,Construção e Transporte,placebo_reacao,0.006575341135759791,11
+28,2017,Consumo Cíclico,placebo_antecip,0.01664891882755319,45
+28,2017,Consumo Cíclico,placebo_reacao,0.002548240439385868,11
+28,2017,Consumo Não Cíclico,placebo_antecip,-0.00691513452577543,45
+28,2017,Consumo Não Cíclico,placebo_reacao,-0.001661768138784059,11
+28,2017,Financeiro,placebo_antecip,-0.013181129592810557,45
+28,2017,Financeiro,placebo_reacao,-0.012493156876348123,11
+28,2017,Materiais Básicos,placebo_antecip,-0.03201287111695489,45
+28,2017,Materiais Básicos,placebo_reacao,-0.004970679141854616,11
+28,2017,Outros,placebo_antecip,0.07955257425379952,45
+28,2017,Outros,placebo_reacao,-0.005068229232246835,11
+28,2017,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.03349241913806458,45
+28,2017,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.01766186187435247,11
+28,2017,Saúde,placebo_antecip,-0.016224923297004295,45
+28,2017,Saúde,placebo_reacao,-0.03869499333775888,11
+28,2017,Utilidade Pública,placebo_antecip,-0.08193078666005703,45
+28,2017,Utilidade Pública,placebo_reacao,-0.025233442787267454,11
+29,2008,Bens Industriais,placebo_antecip,-0.34302714877918733,45
+29,2008,Bens Industriais,placebo_reacao,-0.19275672081805428,11
+29,2008,Comunicações,placebo_antecip,-0.16691230113236996,45
+29,2008,Comunicações,placebo_reacao,-0.17063662514821434,11
+29,2008,Construção e Transporte,placebo_antecip,-0.2640959848101672,45
+29,2008,Construção e Transporte,placebo_reacao,-0.1202823157030181,11
+29,2008,Consumo Cíclico,placebo_antecip,-0.13967194505276054,45
+29,2008,Consumo Cíclico,placebo_reacao,-0.09960955822397663,11
+29,2008,Consumo Não Cíclico,placebo_antecip,-0.34182639366470546,45
+29,2008,Consumo Não Cíclico,placebo_reacao,-0.10979587026223583,11
+29,2008,Financeiro,placebo_antecip,0.09398165893885516,45
+29,2008,Financeiro,placebo_reacao,0.015593696076357522,11
+29,2008,Materiais Básicos,placebo_antecip,-0.18109630023179443,45
+29,2008,Materiais Básicos,placebo_reacao,-0.13964742603334568,11
+29,2008,Outros,placebo_antecip,0.11242207674600611,45
+29,2008,Outros,placebo_reacao,0.036967780013247215,11
+29,2008,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.02947893719907551,45
+29,2008,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.06828432801201931,11
+29,2008,Saúde,placebo_antecip,-0.20147125094438928,45
+29,2008,Saúde,placebo_reacao,-0.06825466643819647,11
+29,2008,Utilidade Pública,placebo_antecip,-0.11306012984508935,45
+29,2008,Utilidade Pública,placebo_reacao,-0.06863012074068456,11
+30,2003,Bens Industriais,placebo_antecip,0.2316074924906987,45
+30,2003,Bens Industriais,placebo_reacao,0.06619166387253435,11
+30,2003,Comunicações,placebo_antecip,0.047728477445706505,45
+30,2003,Comunicações,placebo_reacao,-0.024262078995703165,11
+30,2003,Construção e Transporte,placebo_antecip,-0.03448579002253139,45
+30,2003,Construção e Transporte,placebo_reacao,-0.019493429660749774,11
+30,2003,Consumo Cíclico,placebo_antecip,0.0002796451071752971,45
+30,2003,Consumo Cíclico,placebo_reacao,0.015747904991004473,11
+30,2003,Consumo Não Cíclico,placebo_antecip,0.2411306327745915,45
+30,2003,Consumo Não Cíclico,placebo_reacao,0.15356000606752482,11
+30,2003,Financeiro,placebo_antecip,0.09085356971506112,45
+30,2003,Financeiro,placebo_reacao,0.007356609835687472,11
+30,2003,Materiais Básicos,placebo_antecip,0.2672954590911317,45
+30,2003,Materiais Básicos,placebo_reacao,0.10043187535533606,11
+30,2003,Outros,placebo_antecip,-0.13457495289436547,45
+30,2003,Outros,placebo_reacao,-0.044438984351481775,11
+30,2003,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.031803864007817165,45
+30,2003,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.0019993526841794616,11
+30,2003,Utilidade Pública,placebo_antecip,0.17360484205985008,45
+30,2003,Utilidade Pública,placebo_reacao,0.02581679120920565,11
+31,2017,Bens Industriais,placebo_antecip,0.23238885074622465,45
+31,2017,Bens Industriais,placebo_reacao,0.05938087446195836,11
+31,2017,Comunicações,placebo_antecip,-0.10520445971408128,45
+31,2017,Comunicações,placebo_reacao,0.0026470061311014478,11
+31,2017,Construção e Transporte,placebo_antecip,0.040713163046488685,45
+31,2017,Construção e Transporte,placebo_reacao,0.006575341135759791,11
+31,2017,Consumo Cíclico,placebo_antecip,0.01664891882755319,45
+31,2017,Consumo Cíclico,placebo_reacao,0.002548240439385868,11
+31,2017,Consumo Não Cíclico,placebo_antecip,-0.00691513452577543,45
+31,2017,Consumo Não Cíclico,placebo_reacao,-0.001661768138784059,11
+31,2017,Financeiro,placebo_antecip,-0.013181129592810557,45
+31,2017,Financeiro,placebo_reacao,-0.012493156876348123,11
+31,2017,Materiais Básicos,placebo_antecip,-0.03201287111695489,45
+31,2017,Materiais Básicos,placebo_reacao,-0.004970679141854616,11
+31,2017,Outros,placebo_antecip,0.07955257425379952,45
+31,2017,Outros,placebo_reacao,-0.005068229232246835,11
+31,2017,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.03349241913806458,45
+31,2017,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.01766186187435247,11
+31,2017,Saúde,placebo_antecip,-0.016224923297004295,45
+31,2017,Saúde,placebo_reacao,-0.03869499333775888,11
+31,2017,Utilidade Pública,placebo_antecip,-0.08193078666005703,45
+31,2017,Utilidade Pública,placebo_reacao,-0.025233442787267454,11
+32,2015,Bens Industriais,placebo_antecip,0.002813124534554021,45
+32,2015,Bens Industriais,placebo_reacao,0.04959686110834663,11
+32,2015,Comunicações,placebo_antecip,-0.11633395086905468,45
+32,2015,Comunicações,placebo_reacao,0.041264022048742965,10
+32,2015,Construção e Transporte,placebo_antecip,-0.0659077895495574,45
+32,2015,Construção e Transporte,placebo_reacao,0.04817888486911544,10
+32,2015,Consumo Cíclico,placebo_antecip,-0.07952537558624267,45
+32,2015,Consumo Cíclico,placebo_reacao,0.041849858128909644,10
+32,2015,Consumo Não Cíclico,placebo_antecip,0.0024125932676506597,45
+32,2015,Consumo Não Cíclico,placebo_reacao,0.048446676864872106,10
+32,2015,Financeiro,placebo_antecip,-0.01165129501323817,45
+32,2015,Financeiro,placebo_reacao,0.010270092778176398,10
+32,2015,Materiais Básicos,placebo_antecip,0.02017613755732302,45
+32,2015,Materiais Básicos,placebo_reacao,0.04529631336243263,10
+32,2015,Outros,placebo_antecip,0.01889159734074182,45
+32,2015,Outros,placebo_reacao,0.043886048480949624,10
+32,2015,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.1807534053163141,45
+32,2015,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.02408283789067761,10
+32,2015,Saúde,placebo_antecip,-0.08016250904998536,45
+32,2015,Saúde,placebo_reacao,0.041222810234152085,10
+32,2015,Utilidade Pública,placebo_antecip,-0.024843843365750816,45
+32,2015,Utilidade Pública,placebo_reacao,0.03585642516675705,10
+33,2009,Bens Industriais,placebo_antecip,0.08539281333144721,45
+33,2009,Bens Industriais,placebo_reacao,-0.058727287178736196,11
+33,2009,Comunicações,placebo_antecip,0.034430834280478356,45
+33,2009,Comunicações,placebo_reacao,0.05934310363862662,10
+33,2009,Construção e Transporte,placebo_antecip,0.03593871912234751,45
+33,2009,Construção e Transporte,placebo_reacao,-0.006638304865802474,10
+33,2009,Consumo Cíclico,placebo_antecip,0.051236362251125045,45
+33,2009,Consumo Cíclico,placebo_reacao,0.04245398778345962,10
+33,2009,Consumo Não Cíclico,placebo_antecip,0.02144055488604127,45
+33,2009,Consumo Não Cíclico,placebo_reacao,-0.0020242347594627056,10
+33,2009,Financeiro,placebo_antecip,0.09082497933054816,45
+33,2009,Financeiro,placebo_reacao,0.009850367592237893,10
+33,2009,Materiais Básicos,placebo_antecip,0.10902780614617685,45
+33,2009,Materiais Básicos,placebo_reacao,0.03351189740605138,10
+33,2009,Outros,placebo_antecip,0.06609562103023174,45
+33,2009,Outros,placebo_reacao,0.010707351666748025,10
+33,2009,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.009524774296561933,45
+33,2009,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.05808561971149035,10
+33,2009,Saúde,placebo_antecip,0.14311309068037578,45
+33,2009,Saúde,placebo_reacao,0.030612507848081838,10
+33,2009,Utilidade Pública,placebo_antecip,0.01122642207347098,45
+33,2009,Utilidade Pública,placebo_reacao,0.018856520982903455,10
+34,2019,Bens Industriais,placebo_antecip,-0.024192161290224445,45
+34,2019,Bens Industriais,placebo_reacao,0.01030379254268492,11
+34,2019,Comunicações,placebo_antecip,-0.029851731034534767,45
+34,2019,Comunicações,placebo_reacao,-0.00945166364823885,11
+34,2019,Construção e Transporte,placebo_antecip,-0.05809501790579635,45
+34,2019,Construção e Transporte,placebo_reacao,-0.001149569793370532,11
+34,2019,Consumo Cíclico,placebo_antecip,0.00893369897411732,45
+34,2019,Consumo Cíclico,placebo_reacao,-0.00041286996105402386,11
+34,2019,Consumo Não Cíclico,placebo_antecip,-0.004067852872783886,45
+34,2019,Consumo Não Cíclico,placebo_reacao,-0.023087232630306286,11
+34,2019,Financeiro,placebo_antecip,-0.049829367319431175,45
+34,2019,Financeiro,placebo_reacao,0.007092660995299687,11
+34,2019,Materiais Básicos,placebo_antecip,-0.06796701406478886,45
+34,2019,Materiais Básicos,placebo_reacao,0.002520722025035931,11
+34,2019,Outros,placebo_antecip,0.2474371507399804,45
+34,2019,Outros,placebo_reacao,-0.029568018426481883,11
+34,2019,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.05761103512070127,45
+34,2019,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.008950530632815229,11
+34,2019,Saúde,placebo_antecip,0.07036243408251913,45
+34,2019,Saúde,placebo_reacao,-0.01650033696511909,11
+34,2019,Utilidade Pública,placebo_antecip,0.04283103124957032,45
+34,2019,Utilidade Pública,placebo_reacao,-0.034890297340081255,11
+35,2017,Bens Industriais,placebo_antecip,0.23238885074622465,45
+35,2017,Bens Industriais,placebo_reacao,0.05938087446195836,11
+35,2017,Comunicações,placebo_antecip,-0.10520445971408128,45
+35,2017,Comunicações,placebo_reacao,0.0026470061311014478,11
+35,2017,Construção e Transporte,placebo_antecip,0.040713163046488685,45
+35,2017,Construção e Transporte,placebo_reacao,0.006575341135759791,11
+35,2017,Consumo Cíclico,placebo_antecip,0.01664891882755319,45
+35,2017,Consumo Cíclico,placebo_reacao,0.002548240439385868,11
+35,2017,Consumo Não Cíclico,placebo_antecip,-0.00691513452577543,45
+35,2017,Consumo Não Cíclico,placebo_reacao,-0.001661768138784059,11
+35,2017,Financeiro,placebo_antecip,-0.013181129592810557,45
+35,2017,Financeiro,placebo_reacao,-0.012493156876348123,11
+35,2017,Materiais Básicos,placebo_antecip,-0.03201287111695489,45
+35,2017,Materiais Básicos,placebo_reacao,-0.004970679141854616,11
+35,2017,Outros,placebo_antecip,0.07955257425379952,45
+35,2017,Outros,placebo_reacao,-0.005068229232246835,11
+35,2017,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.03349241913806458,45
+35,2017,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.01766186187435247,11
+35,2017,Saúde,placebo_antecip,-0.016224923297004295,45
+35,2017,Saúde,placebo_reacao,-0.03869499333775888,11
+35,2017,Utilidade Pública,placebo_antecip,-0.08193078666005703,45
+35,2017,Utilidade Pública,placebo_reacao,-0.025233442787267454,11
+36,2013,Bens Industriais,placebo_antecip,0.058396514465878256,45
+36,2013,Bens Industriais,placebo_reacao,0.06157494770866951,11
+36,2013,Comunicações,placebo_antecip,-0.025520772980765015,45
+36,2013,Comunicações,placebo_reacao,0.04430430615354604,11
+36,2013,Construção e Transporte,placebo_antecip,-0.011940187036501213,45
+36,2013,Construção e Transporte,placebo_reacao,0.004920687561828024,11
+36,2013,Consumo Cíclico,placebo_antecip,0.05978956450311569,45
+36,2013,Consumo Cíclico,placebo_reacao,0.005055624751796439,11
+36,2013,Consumo Não Cíclico,placebo_antecip,0.0320744381647609,45
+36,2013,Consumo Não Cíclico,placebo_reacao,0.06011592531803041,11
+36,2013,Financeiro,placebo_antecip,0.01894839124942223,45
+36,2013,Financeiro,placebo_reacao,0.008269404878798832,11
+36,2013,Materiais Básicos,placebo_antecip,0.02847421003392507,45
+36,2013,Materiais Básicos,placebo_reacao,0.0007305127604372019,11
+36,2013,Outros,placebo_antecip,-0.048097957214471715,45
+36,2013,Outros,placebo_reacao,0.0011729180071494176,11
+36,2013,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.002955796752476583,45
+36,2013,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.059765875636036,11
+36,2013,Saúde,placebo_antecip,-0.02295758420997572,45
+36,2013,Saúde,placebo_reacao,0.03568682654837174,11
+36,2013,Utilidade Pública,placebo_antecip,0.006292653807809171,45
+36,2013,Utilidade Pública,placebo_reacao,-0.00902816680743286,11
+37,2003,Bens Industriais,placebo_antecip,0.2316074924906987,45
+37,2003,Bens Industriais,placebo_reacao,0.06619166387253435,11
+37,2003,Comunicações,placebo_antecip,0.047728477445706505,45
+37,2003,Comunicações,placebo_reacao,-0.024262078995703165,11
+37,2003,Construção e Transporte,placebo_antecip,-0.03448579002253139,45
+37,2003,Construção e Transporte,placebo_reacao,-0.019493429660749774,11
+37,2003,Consumo Cíclico,placebo_antecip,0.0002796451071752971,45
+37,2003,Consumo Cíclico,placebo_reacao,0.015747904991004473,11
+37,2003,Consumo Não Cíclico,placebo_antecip,0.2411306327745915,45
+37,2003,Consumo Não Cíclico,placebo_reacao,0.15356000606752482,11
+37,2003,Financeiro,placebo_antecip,0.09085356971506112,45
+37,2003,Financeiro,placebo_reacao,0.007356609835687472,11
+37,2003,Materiais Básicos,placebo_antecip,0.2672954590911317,45
+37,2003,Materiais Básicos,placebo_reacao,0.10043187535533606,11
+37,2003,Outros,placebo_antecip,-0.13457495289436547,45
+37,2003,Outros,placebo_reacao,-0.044438984351481775,11
+37,2003,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.031803864007817165,45
+37,2003,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.0019993526841794616,11
+37,2003,Utilidade Pública,placebo_antecip,0.17360484205985008,45
+37,2003,Utilidade Pública,placebo_reacao,0.02581679120920565,11
+38,2016,Bens Industriais,placebo_antecip,-0.08654534520697509,45
+38,2016,Bens Industriais,placebo_reacao,-0.015617662747976923,11
+38,2016,Comunicações,placebo_antecip,0.03828185176939468,44
+38,2016,Comunicações,placebo_reacao,-0.014547477188411897,10
+38,2016,Construção e Transporte,placebo_antecip,-0.11894264630881471,44
+38,2016,Construção e Transporte,placebo_reacao,-0.02782451574933817,10
+38,2016,Consumo Cíclico,placebo_antecip,-0.01891530424292991,44
+38,2016,Consumo Cíclico,placebo_reacao,-0.01446436787950331,10
+38,2016,Consumo Não Cíclico,placebo_antecip,0.025487860998212188,44
+38,2016,Consumo Não Cíclico,placebo_reacao,0.00497034644828913,10
+38,2016,Financeiro,placebo_antecip,-0.037327750142726185,44
+38,2016,Financeiro,placebo_reacao,-0.010355676709359414,10
+38,2016,Materiais Básicos,placebo_antecip,-0.005141221984744352,44
+38,2016,Materiais Básicos,placebo_reacao,-0.015065515987840797,10
+38,2016,Outros,placebo_antecip,-0.0479588324399019,44
+38,2016,Outros,placebo_reacao,0.004323297075815985,10
+38,2016,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.005321154424494886,44
+38,2016,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.019209604302132602,10
+38,2016,Saúde,placebo_antecip,0.03334153778939508,44
+38,2016,Saúde,placebo_reacao,-0.06766072229009332,10
+38,2016,Utilidade Pública,placebo_antecip,-0.01837234182988987,44
+38,2016,Utilidade Pública,placebo_reacao,-0.007590711536868789,10
+39,2016,Bens Industriais,placebo_antecip,-0.08654534520697509,45
+39,2016,Bens Industriais,placebo_reacao,-0.015617662747976923,11
+39,2016,Comunicações,placebo_antecip,0.03828185176939468,44
+39,2016,Comunicações,placebo_reacao,-0.014547477188411897,10
+39,2016,Construção e Transporte,placebo_antecip,-0.11894264630881471,44
+39,2016,Construção e Transporte,placebo_reacao,-0.02782451574933817,10
+39,2016,Consumo Cíclico,placebo_antecip,-0.01891530424292991,44
+39,2016,Consumo Cíclico,placebo_reacao,-0.01446436787950331,10
+39,2016,Consumo Não Cíclico,placebo_antecip,0.025487860998212188,44
+39,2016,Consumo Não Cíclico,placebo_reacao,0.00497034644828913,10
+39,2016,Financeiro,placebo_antecip,-0.037327750142726185,44
+39,2016,Financeiro,placebo_reacao,-0.010355676709359414,10
+39,2016,Materiais Básicos,placebo_antecip,-0.005141221984744352,44
+39,2016,Materiais Básicos,placebo_reacao,-0.015065515987840797,10
+39,2016,Outros,placebo_antecip,-0.0479588324399019,44
+39,2016,Outros,placebo_reacao,0.004323297075815985,10
+39,2016,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.005321154424494886,44
+39,2016,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.019209604302132602,10
+39,2016,Saúde,placebo_antecip,0.03334153778939508,44
+39,2016,Saúde,placebo_reacao,-0.06766072229009332,10
+39,2016,Utilidade Pública,placebo_antecip,-0.01837234182988987,44
+39,2016,Utilidade Pública,placebo_reacao,-0.007590711536868789,10
+40,2021,Bens Industriais,placebo_antecip,-0.1391397834617836,45
+40,2021,Bens Industriais,placebo_reacao,-0.06114799820589918,11
+40,2021,Comunicações,placebo_antecip,-0.21651465062870195,45
+40,2021,Comunicações,placebo_reacao,-0.060392812664231105,11
+40,2021,Construção e Transporte,placebo_antecip,-0.10053319328507798,45
+40,2021,Construção e Transporte,placebo_reacao,-0.003982320511207624,11
+40,2021,Consumo Cíclico,placebo_antecip,-0.10425131402818341,45
+40,2021,Consumo Cíclico,placebo_reacao,-0.039822463523599604,11
+40,2021,Consumo Não Cíclico,placebo_antecip,-0.0573063292087133,45
+40,2021,Consumo Não Cíclico,placebo_reacao,-0.018857014200380454,11
+40,2021,Financeiro,placebo_antecip,-0.057355651319438414,45
+40,2021,Financeiro,placebo_reacao,-0.0304158547240246,11
+40,2021,Materiais Básicos,placebo_antecip,-0.17401085281362477,45
+40,2021,Materiais Básicos,placebo_reacao,-0.011898989532014709,11
+40,2021,Outros,placebo_antecip,-0.1443400925928149,45
+40,2021,Outros,placebo_reacao,-0.0029190437781755653,11
+40,2021,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.08678025607708285,45
+40,2021,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.0022642223458207364,11
+40,2021,Saúde,placebo_antecip,-0.04018388413868364,45
+40,2021,Saúde,placebo_reacao,-0.08535520267722937,11
+40,2021,Utilidade Pública,placebo_antecip,-0.010887069174067975,45
+40,2021,Utilidade Pública,placebo_reacao,-0.004882416586574052,11
+41,2015,Bens Industriais,placebo_antecip,0.002813124534554021,45
+41,2015,Bens Industriais,placebo_reacao,0.04959686110834663,11
+41,2015,Comunicações,placebo_antecip,-0.11633395086905468,45
+41,2015,Comunicações,placebo_reacao,0.041264022048742965,10
+41,2015,Construção e Transporte,placebo_antecip,-0.0659077895495574,45
+41,2015,Construção e Transporte,placebo_reacao,0.04817888486911544,10
+41,2015,Consumo Cíclico,placebo_antecip,-0.07952537558624267,45
+41,2015,Consumo Cíclico,placebo_reacao,0.041849858128909644,10
+41,2015,Consumo Não Cíclico,placebo_antecip,0.0024125932676506597,45
+41,2015,Consumo Não Cíclico,placebo_reacao,0.048446676864872106,10
+41,2015,Financeiro,placebo_antecip,-0.01165129501323817,45
+41,2015,Financeiro,placebo_reacao,0.010270092778176398,10
+41,2015,Materiais Básicos,placebo_antecip,0.02017613755732302,45
+41,2015,Materiais Básicos,placebo_reacao,0.04529631336243263,10
+41,2015,Outros,placebo_antecip,0.01889159734074182,45
+41,2015,Outros,placebo_reacao,0.043886048480949624,10
+41,2015,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.1807534053163141,45
+41,2015,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.02408283789067761,10
+41,2015,Saúde,placebo_antecip,-0.08016250904998536,45
+41,2015,Saúde,placebo_reacao,0.041222810234152085,10
+41,2015,Utilidade Pública,placebo_antecip,-0.024843843365750816,45
+41,2015,Utilidade Pública,placebo_reacao,0.03585642516675705,10
+42,2017,Bens Industriais,placebo_antecip,0.23238885074622465,45
+42,2017,Bens Industriais,placebo_reacao,0.05938087446195836,11
+42,2017,Comunicações,placebo_antecip,-0.10520445971408128,45
+42,2017,Comunicações,placebo_reacao,0.0026470061311014478,11
+42,2017,Construção e Transporte,placebo_antecip,0.040713163046488685,45
+42,2017,Construção e Transporte,placebo_reacao,0.006575341135759791,11
+42,2017,Consumo Cíclico,placebo_antecip,0.01664891882755319,45
+42,2017,Consumo Cíclico,placebo_reacao,0.002548240439385868,11
+42,2017,Consumo Não Cíclico,placebo_antecip,-0.00691513452577543,45
+42,2017,Consumo Não Cíclico,placebo_reacao,-0.001661768138784059,11
+42,2017,Financeiro,placebo_antecip,-0.013181129592810557,45
+42,2017,Financeiro,placebo_reacao,-0.012493156876348123,11
+42,2017,Materiais Básicos,placebo_antecip,-0.03201287111695489,45
+42,2017,Materiais Básicos,placebo_reacao,-0.004970679141854616,11
+42,2017,Outros,placebo_antecip,0.07955257425379952,45
+42,2017,Outros,placebo_reacao,-0.005068229232246835,11
+42,2017,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.03349241913806458,45
+42,2017,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.01766186187435247,11
+42,2017,Saúde,placebo_antecip,-0.016224923297004295,45
+42,2017,Saúde,placebo_reacao,-0.03869499333775888,11
+42,2017,Utilidade Pública,placebo_antecip,-0.08193078666005703,45
+42,2017,Utilidade Pública,placebo_reacao,-0.025233442787267454,11
+43,2017,Bens Industriais,placebo_antecip,0.23238885074622465,45
+43,2017,Bens Industriais,placebo_reacao,0.05938087446195836,11
+43,2017,Comunicações,placebo_antecip,-0.10520445971408128,45
+43,2017,Comunicações,placebo_reacao,0.0026470061311014478,11
+43,2017,Construção e Transporte,placebo_antecip,0.040713163046488685,45
+43,2017,Construção e Transporte,placebo_reacao,0.006575341135759791,11
+43,2017,Consumo Cíclico,placebo_antecip,0.01664891882755319,45
+43,2017,Consumo Cíclico,placebo_reacao,0.002548240439385868,11
+43,2017,Consumo Não Cíclico,placebo_antecip,-0.00691513452577543,45
+43,2017,Consumo Não Cíclico,placebo_reacao,-0.001661768138784059,11
+43,2017,Financeiro,placebo_antecip,-0.013181129592810557,45
+43,2017,Financeiro,placebo_reacao,-0.012493156876348123,11
+43,2017,Materiais Básicos,placebo_antecip,-0.03201287111695489,45
+43,2017,Materiais Básicos,placebo_reacao,-0.004970679141854616,11
+43,2017,Outros,placebo_antecip,0.07955257425379952,45
+43,2017,Outros,placebo_reacao,-0.005068229232246835,11
+43,2017,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.03349241913806458,45
+43,2017,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.01766186187435247,11
+43,2017,Saúde,placebo_antecip,-0.016224923297004295,45
+43,2017,Saúde,placebo_reacao,-0.03869499333775888,11
+43,2017,Utilidade Pública,placebo_antecip,-0.08193078666005703,45
+43,2017,Utilidade Pública,placebo_reacao,-0.025233442787267454,11
+44,2021,Bens Industriais,placebo_antecip,-0.1391397834617836,45
+44,2021,Bens Industriais,placebo_reacao,-0.06114799820589918,11
+44,2021,Comunicações,placebo_antecip,-0.21651465062870195,45
+44,2021,Comunicações,placebo_reacao,-0.060392812664231105,11
+44,2021,Construção e Transporte,placebo_antecip,-0.10053319328507798,45
+44,2021,Construção e Transporte,placebo_reacao,-0.003982320511207624,11
+44,2021,Consumo Cíclico,placebo_antecip,-0.10425131402818341,45
+44,2021,Consumo Cíclico,placebo_reacao,-0.039822463523599604,11
+44,2021,Consumo Não Cíclico,placebo_antecip,-0.0573063292087133,45
+44,2021,Consumo Não Cíclico,placebo_reacao,-0.018857014200380454,11
+44,2021,Financeiro,placebo_antecip,-0.057355651319438414,45
+44,2021,Financeiro,placebo_reacao,-0.0304158547240246,11
+44,2021,Materiais Básicos,placebo_antecip,-0.17401085281362477,45
+44,2021,Materiais Básicos,placebo_reacao,-0.011898989532014709,11
+44,2021,Outros,placebo_antecip,-0.1443400925928149,45
+44,2021,Outros,placebo_reacao,-0.0029190437781755653,11
+44,2021,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.08678025607708285,45
+44,2021,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.0022642223458207364,11
+44,2021,Saúde,placebo_antecip,-0.04018388413868364,45
+44,2021,Saúde,placebo_reacao,-0.08535520267722937,11
+44,2021,Utilidade Pública,placebo_antecip,-0.010887069174067975,45
+44,2021,Utilidade Pública,placebo_reacao,-0.004882416586574052,11
+45,2020,Bens Industriais,placebo_antecip,-0.05220703180014831,45
+45,2020,Bens Industriais,placebo_reacao,-0.010590146946048705,11
+45,2020,Comunicações,placebo_antecip,-0.10485640099005601,45
+45,2020,Comunicações,placebo_reacao,-0.008484007254443105,11
+45,2020,Construção e Transporte,placebo_antecip,0.013834063524505258,45
+45,2020,Construção e Transporte,placebo_reacao,0.010070624170060166,11
+45,2020,Consumo Cíclico,placebo_antecip,0.0015684284570028966,45
+45,2020,Consumo Cíclico,placebo_reacao,-0.00045904065750485695,11
+45,2020,Consumo Não Cíclico,placebo_antecip,0.03921850710009196,45
+45,2020,Consumo Não Cíclico,placebo_reacao,0.007621027874929184,11
+45,2020,Financeiro,placebo_antecip,-0.015679766205140458,45
+45,2020,Financeiro,placebo_reacao,-0.007071736508551098,11
+45,2020,Materiais Básicos,placebo_antecip,0.04176414498288646,45
+45,2020,Materiais Básicos,placebo_reacao,-0.003888546648312241,11
+45,2020,Outros,placebo_antecip,0.10095680233562108,45
+45,2020,Outros,placebo_reacao,0.18624716301489752,11
+45,2020,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.020200186435386357,45
+45,2020,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.06676380404879684,11
+45,2020,Saúde,placebo_antecip,-0.004677495291088078,45
+45,2020,Saúde,placebo_reacao,-0.000799598478156941,11
+45,2020,Utilidade Pública,placebo_antecip,-0.0024015744195320533,45
+45,2020,Utilidade Pública,placebo_reacao,-0.0015953836709406213,11
+46,2020,Bens Industriais,placebo_antecip,-0.05220703180014831,45
+46,2020,Bens Industriais,placebo_reacao,-0.010590146946048705,11
+46,2020,Comunicações,placebo_antecip,-0.10485640099005601,45
+46,2020,Comunicações,placebo_reacao,-0.008484007254443105,11
+46,2020,Construção e Transporte,placebo_antecip,0.013834063524505258,45
+46,2020,Construção e Transporte,placebo_reacao,0.010070624170060166,11
+46,2020,Consumo Cíclico,placebo_antecip,0.0015684284570028966,45
+46,2020,Consumo Cíclico,placebo_reacao,-0.00045904065750485695,11
+46,2020,Consumo Não Cíclico,placebo_antecip,0.03921850710009196,45
+46,2020,Consumo Não Cíclico,placebo_reacao,0.007621027874929184,11
+46,2020,Financeiro,placebo_antecip,-0.015679766205140458,45
+46,2020,Financeiro,placebo_reacao,-0.007071736508551098,11
+46,2020,Materiais Básicos,placebo_antecip,0.04176414498288646,45
+46,2020,Materiais Básicos,placebo_reacao,-0.003888546648312241,11
+46,2020,Outros,placebo_antecip,0.10095680233562108,45
+46,2020,Outros,placebo_reacao,0.18624716301489752,11
+46,2020,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.020200186435386357,45
+46,2020,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.06676380404879684,11
+46,2020,Saúde,placebo_antecip,-0.004677495291088078,45
+46,2020,Saúde,placebo_reacao,-0.000799598478156941,11
+46,2020,Utilidade Pública,placebo_antecip,-0.0024015744195320533,45
+46,2020,Utilidade Pública,placebo_reacao,-0.0015953836709406213,11
+47,2021,Bens Industriais,placebo_antecip,-0.1391397834617836,45
+47,2021,Bens Industriais,placebo_reacao,-0.06114799820589918,11
+47,2021,Comunicações,placebo_antecip,-0.21651465062870195,45
+47,2021,Comunicações,placebo_reacao,-0.060392812664231105,11
+47,2021,Construção e Transporte,placebo_antecip,-0.10053319328507798,45
+47,2021,Construção e Transporte,placebo_reacao,-0.003982320511207624,11
+47,2021,Consumo Cíclico,placebo_antecip,-0.10425131402818341,45
+47,2021,Consumo Cíclico,placebo_reacao,-0.039822463523599604,11
+47,2021,Consumo Não Cíclico,placebo_antecip,-0.0573063292087133,45
+47,2021,Consumo Não Cíclico,placebo_reacao,-0.018857014200380454,11
+47,2021,Financeiro,placebo_antecip,-0.057355651319438414,45
+47,2021,Financeiro,placebo_reacao,-0.0304158547240246,11
+47,2021,Materiais Básicos,placebo_antecip,-0.17401085281362477,45
+47,2021,Materiais Básicos,placebo_reacao,-0.011898989532014709,11
+47,2021,Outros,placebo_antecip,-0.1443400925928149,45
+47,2021,Outros,placebo_reacao,-0.0029190437781755653,11
+47,2021,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.08678025607708285,45
+47,2021,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.0022642223458207364,11
+47,2021,Saúde,placebo_antecip,-0.04018388413868364,45
+47,2021,Saúde,placebo_reacao,-0.08535520267722937,11
+47,2021,Utilidade Pública,placebo_antecip,-0.010887069174067975,45
+47,2021,Utilidade Pública,placebo_reacao,-0.004882416586574052,11
+48,2020,Bens Industriais,placebo_antecip,-0.05220703180014831,45
+48,2020,Bens Industriais,placebo_reacao,-0.010590146946048705,11
+48,2020,Comunicações,placebo_antecip,-0.10485640099005601,45
+48,2020,Comunicações,placebo_reacao,-0.008484007254443105,11
+48,2020,Construção e Transporte,placebo_antecip,0.013834063524505258,45
+48,2020,Construção e Transporte,placebo_reacao,0.010070624170060166,11
+48,2020,Consumo Cíclico,placebo_antecip,0.0015684284570028966,45
+48,2020,Consumo Cíclico,placebo_reacao,-0.00045904065750485695,11
+48,2020,Consumo Não Cíclico,placebo_antecip,0.03921850710009196,45
+48,2020,Consumo Não Cíclico,placebo_reacao,0.007621027874929184,11
+48,2020,Financeiro,placebo_antecip,-0.015679766205140458,45
+48,2020,Financeiro,placebo_reacao,-0.007071736508551098,11
+48,2020,Materiais Básicos,placebo_antecip,0.04176414498288646,45
+48,2020,Materiais Básicos,placebo_reacao,-0.003888546648312241,11
+48,2020,Outros,placebo_antecip,0.10095680233562108,45
+48,2020,Outros,placebo_reacao,0.18624716301489752,11
+48,2020,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.020200186435386357,45
+48,2020,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.06676380404879684,11
+48,2020,Saúde,placebo_antecip,-0.004677495291088078,45
+48,2020,Saúde,placebo_reacao,-0.000799598478156941,11
+48,2020,Utilidade Pública,placebo_antecip,-0.0024015744195320533,45
+48,2020,Utilidade Pública,placebo_reacao,-0.0015953836709406213,11
+49,2005,Bens Industriais,placebo_antecip,-0.14734812498905833,45
+49,2005,Bens Industriais,placebo_reacao,-0.012718727074393784,11
+49,2005,Comunicações,placebo_antecip,0.010207997009917206,45
+49,2005,Comunicações,placebo_reacao,0.04600032715157951,11
+49,2005,Construção e Transporte,placebo_antecip,0.04928033765505906,45
+49,2005,Construção e Transporte,placebo_reacao,0.0346272891486207,11
+49,2005,Consumo Cíclico,placebo_antecip,0.05929904744428919,45
+49,2005,Consumo Cíclico,placebo_reacao,0.02277666860704489,11
+49,2005,Consumo Não Cíclico,placebo_antecip,0.039560110175269836,45
+49,2005,Consumo Não Cíclico,placebo_reacao,0.07523567014860197,11
+49,2005,Financeiro,placebo_antecip,0.044308885268119574,45
+49,2005,Financeiro,placebo_reacao,0.021651360349327433,11
+49,2005,Materiais Básicos,placebo_antecip,-0.0025805405446521204,45
+49,2005,Materiais Básicos,placebo_reacao,-0.05572889621534667,11
+49,2005,Outros,placebo_antecip,-0.057904394749602975,45
+49,2005,Outros,placebo_reacao,-0.03263052055484659,11
+49,2005,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.015999924510954833,45
+49,2005,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.004467304625920712,11
+49,2005,Saúde,placebo_antecip,0.054588542057664016,45
+49,2005,Saúde,placebo_reacao,0.029187056720245554,11
+49,2005,Utilidade Pública,placebo_antecip,0.009939498891588095,45
+49,2005,Utilidade Pública,placebo_reacao,0.03757163904310021,11
+50,2017,Bens Industriais,placebo_antecip,0.23238885074622465,45
+50,2017,Bens Industriais,placebo_reacao,0.05938087446195836,11
+50,2017,Comunicações,placebo_antecip,-0.10520445971408128,45
+50,2017,Comunicações,placebo_reacao,0.0026470061311014478,11
+50,2017,Construção e Transporte,placebo_antecip,0.040713163046488685,45
+50,2017,Construção e Transporte,placebo_reacao,0.006575341135759791,11
+50,2017,Consumo Cíclico,placebo_antecip,0.01664891882755319,45
+50,2017,Consumo Cíclico,placebo_reacao,0.002548240439385868,11
+50,2017,Consumo Não Cíclico,placebo_antecip,-0.00691513452577543,45
+50,2017,Consumo Não Cíclico,placebo_reacao,-0.001661768138784059,11
+50,2017,Financeiro,placebo_antecip,-0.013181129592810557,45
+50,2017,Financeiro,placebo_reacao,-0.012493156876348123,11
+50,2017,Materiais Básicos,placebo_antecip,-0.03201287111695489,45
+50,2017,Materiais Básicos,placebo_reacao,-0.004970679141854616,11
+50,2017,Outros,placebo_antecip,0.07955257425379952,45
+50,2017,Outros,placebo_reacao,-0.005068229232246835,11
+50,2017,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.03349241913806458,45
+50,2017,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.01766186187435247,11
+50,2017,Saúde,placebo_antecip,-0.016224923297004295,45
+50,2017,Saúde,placebo_reacao,-0.03869499333775888,11
+50,2017,Utilidade Pública,placebo_antecip,-0.08193078666005703,45
+50,2017,Utilidade Pública,placebo_reacao,-0.025233442787267454,11
+51,2011,Bens Industriais,placebo_antecip,-0.022190299525799283,45
+51,2011,Bens Industriais,placebo_reacao,-0.04386437438549047,11
+51,2011,Comunicações,placebo_antecip,0.07649746674775146,44
+51,2011,Comunicações,placebo_reacao,-0.039211219045531556,10
+51,2011,Construção e Transporte,placebo_antecip,-0.07990359971098548,44
+51,2011,Construção e Transporte,placebo_reacao,-0.004222045719596877,10
+51,2011,Consumo Cíclico,placebo_antecip,-0.06648843150120583,44
+51,2011,Consumo Cíclico,placebo_reacao,-0.0375573741303187,10
+51,2011,Consumo Não Cíclico,placebo_antecip,-0.019707406105146544,44
+51,2011,Consumo Não Cíclico,placebo_reacao,-0.013083214439400769,10
+51,2011,Financeiro,placebo_antecip,0.001698737815663114,44
+51,2011,Financeiro,placebo_reacao,-0.004575387729136552,10
+51,2011,Materiais Básicos,placebo_antecip,-0.04241279975463374,44
+51,2011,Materiais Básicos,placebo_reacao,-0.01669762753136042,10
+51,2011,Outros,placebo_antecip,-0.02331432536850203,44
+51,2011,Outros,placebo_reacao,-0.04749068736394501,10
+51,2011,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.21323982900075508,44
+51,2011,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.0540405878664062,10
+51,2011,Saúde,placebo_antecip,-0.058241678005289926,44
+51,2011,Saúde,placebo_reacao,-0.0434041641540905,10
+51,2011,Utilidade Pública,placebo_antecip,0.05413941705147274,44
+51,2011,Utilidade Pública,placebo_reacao,0.022433945008429185,10
+52,2007,Bens Industriais,placebo_antecip,-0.10608524537352518,45
+52,2007,Bens Industriais,placebo_reacao,0.24752876482900868,11
+52,2007,Comunicações,placebo_antecip,-0.14479545044657788,44
+52,2007,Comunicações,placebo_reacao,0.008968049259372893,10
+52,2007,Construção e Transporte,placebo_antecip,-0.10061743015435146,44
+52,2007,Construção e Transporte,placebo_reacao,-0.029254728180560994,10
+52,2007,Consumo Cíclico,placebo_antecip,-0.012915206135545263,44
+52,2007,Consumo Cíclico,placebo_reacao,0.06445183856065946,10
+52,2007,Consumo Não Cíclico,placebo_antecip,-0.09183663100597966,44
+52,2007,Consumo Não Cíclico,placebo_reacao,0.025339940069309806,10
+52,2007,Financeiro,placebo_antecip,-0.17538650123647856,44
+52,2007,Financeiro,placebo_reacao,-0.013942748313546065,10
+52,2007,Materiais Básicos,placebo_antecip,-0.1269098731865971,44
+52,2007,Materiais Básicos,placebo_reacao,-0.013338503604849715,10
+52,2007,Outros,placebo_antecip,-0.21953450465468946,44
+52,2007,Outros,placebo_reacao,-0.035139103439759956,10
+52,2007,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.8861787449241793,44
+52,2007,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.20042391966617806,10
+52,2007,Saúde,placebo_antecip,2.239646598204198,44
+52,2007,Saúde,placebo_reacao,-0.012866731726636702,10
+52,2007,Utilidade Pública,placebo_antecip,-0.0976618062961863,44
+52,2007,Utilidade Pública,placebo_reacao,-0.019494870661112898,10
+53,2013,Bens Industriais,placebo_antecip,0.058396514465878256,45
+53,2013,Bens Industriais,placebo_reacao,0.06157494770866951,11
+53,2013,Comunicações,placebo_antecip,-0.025520772980765015,45
+53,2013,Comunicações,placebo_reacao,0.04430430615354604,11
+53,2013,Construção e Transporte,placebo_antecip,-0.011940187036501213,45
+53,2013,Construção e Transporte,placebo_reacao,0.004920687561828024,11
+53,2013,Consumo Cíclico,placebo_antecip,0.05978956450311569,45
+53,2013,Consumo Cíclico,placebo_reacao,0.005055624751796439,11
+53,2013,Consumo Não Cíclico,placebo_antecip,0.0320744381647609,45
+53,2013,Consumo Não Cíclico,placebo_reacao,0.06011592531803041,11
+53,2013,Financeiro,placebo_antecip,0.01894839124942223,45
+53,2013,Financeiro,placebo_reacao,0.008269404878798832,11
+53,2013,Materiais Básicos,placebo_antecip,0.02847421003392507,45
+53,2013,Materiais Básicos,placebo_reacao,0.0007305127604372019,11
+53,2013,Outros,placebo_antecip,-0.048097957214471715,45
+53,2013,Outros,placebo_reacao,0.0011729180071494176,11
+53,2013,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.002955796752476583,45
+53,2013,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.059765875636036,11
+53,2013,Saúde,placebo_antecip,-0.02295758420997572,45
+53,2013,Saúde,placebo_reacao,0.03568682654837174,11
+53,2013,Utilidade Pública,placebo_antecip,0.006292653807809171,45
+53,2013,Utilidade Pública,placebo_reacao,-0.00902816680743286,11
+54,2005,Bens Industriais,placebo_antecip,-0.14734812498905833,45
+54,2005,Bens Industriais,placebo_reacao,-0.012718727074393784,11
+54,2005,Comunicações,placebo_antecip,0.010207997009917206,45
+54,2005,Comunicações,placebo_reacao,0.04600032715157951,11
+54,2005,Construção e Transporte,placebo_antecip,0.04928033765505906,45
+54,2005,Construção e Transporte,placebo_reacao,0.0346272891486207,11
+54,2005,Consumo Cíclico,placebo_antecip,0.05929904744428919,45
+54,2005,Consumo Cíclico,placebo_reacao,0.02277666860704489,11
+54,2005,Consumo Não Cíclico,placebo_antecip,0.039560110175269836,45
+54,2005,Consumo Não Cíclico,placebo_reacao,0.07523567014860197,11
+54,2005,Financeiro,placebo_antecip,0.044308885268119574,45
+54,2005,Financeiro,placebo_reacao,0.021651360349327433,11
+54,2005,Materiais Básicos,placebo_antecip,-0.0025805405446521204,45
+54,2005,Materiais Básicos,placebo_reacao,-0.05572889621534667,11
+54,2005,Outros,placebo_antecip,-0.057904394749602975,45
+54,2005,Outros,placebo_reacao,-0.03263052055484659,11
+54,2005,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.015999924510954833,45
+54,2005,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.004467304625920712,11
+54,2005,Saúde,placebo_antecip,0.054588542057664016,45
+54,2005,Saúde,placebo_reacao,0.029187056720245554,11
+54,2005,Utilidade Pública,placebo_antecip,0.009939498891588095,45
+54,2005,Utilidade Pública,placebo_reacao,0.03757163904310021,11
+55,2008,Bens Industriais,placebo_antecip,-0.34302714877918733,45
+55,2008,Bens Industriais,placebo_reacao,-0.19275672081805428,11
+55,2008,Comunicações,placebo_antecip,-0.16691230113236996,45
+55,2008,Comunicações,placebo_reacao,-0.17063662514821434,11
+55,2008,Construção e Transporte,placebo_antecip,-0.2640959848101672,45
+55,2008,Construção e Transporte,placebo_reacao,-0.1202823157030181,11
+55,2008,Consumo Cíclico,placebo_antecip,-0.13967194505276054,45
+55,2008,Consumo Cíclico,placebo_reacao,-0.09960955822397663,11
+55,2008,Consumo Não Cíclico,placebo_antecip,-0.34182639366470546,45
+55,2008,Consumo Não Cíclico,placebo_reacao,-0.10979587026223583,11
+55,2008,Financeiro,placebo_antecip,0.09398165893885516,45
+55,2008,Financeiro,placebo_reacao,0.015593696076357522,11
+55,2008,Materiais Básicos,placebo_antecip,-0.18109630023179443,45
+55,2008,Materiais Básicos,placebo_reacao,-0.13964742603334568,11
+55,2008,Outros,placebo_antecip,0.11242207674600611,45
+55,2008,Outros,placebo_reacao,0.036967780013247215,11
+55,2008,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.02947893719907551,45
+55,2008,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.06828432801201931,11
+55,2008,Saúde,placebo_antecip,-0.20147125094438928,45
+55,2008,Saúde,placebo_reacao,-0.06825466643819647,11
+55,2008,Utilidade Pública,placebo_antecip,-0.11306012984508935,45
+55,2008,Utilidade Pública,placebo_reacao,-0.06863012074068456,11
+56,2005,Bens Industriais,placebo_antecip,-0.14734812498905833,45
+56,2005,Bens Industriais,placebo_reacao,-0.012718727074393784,11
+56,2005,Comunicações,placebo_antecip,0.010207997009917206,45
+56,2005,Comunicações,placebo_reacao,0.04600032715157951,11
+56,2005,Construção e Transporte,placebo_antecip,0.04928033765505906,45
+56,2005,Construção e Transporte,placebo_reacao,0.0346272891486207,11
+56,2005,Consumo Cíclico,placebo_antecip,0.05929904744428919,45
+56,2005,Consumo Cíclico,placebo_reacao,0.02277666860704489,11
+56,2005,Consumo Não Cíclico,placebo_antecip,0.039560110175269836,45
+56,2005,Consumo Não Cíclico,placebo_reacao,0.07523567014860197,11
+56,2005,Financeiro,placebo_antecip,0.044308885268119574,45
+56,2005,Financeiro,placebo_reacao,0.021651360349327433,11
+56,2005,Materiais Básicos,placebo_antecip,-0.0025805405446521204,45
+56,2005,Materiais Básicos,placebo_reacao,-0.05572889621534667,11
+56,2005,Outros,placebo_antecip,-0.057904394749602975,45
+56,2005,Outros,placebo_reacao,-0.03263052055484659,11
+56,2005,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.015999924510954833,45
+56,2005,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.004467304625920712,11
+56,2005,Saúde,placebo_antecip,0.054588542057664016,45
+56,2005,Saúde,placebo_reacao,0.029187056720245554,11
+56,2005,Utilidade Pública,placebo_antecip,0.009939498891588095,45
+56,2005,Utilidade Pública,placebo_reacao,0.03757163904310021,11
+57,2011,Bens Industriais,placebo_antecip,-0.022190299525799283,45
+57,2011,Bens Industriais,placebo_reacao,-0.04386437438549047,11
+57,2011,Comunicações,placebo_antecip,0.07649746674775146,44
+57,2011,Comunicações,placebo_reacao,-0.039211219045531556,10
+57,2011,Construção e Transporte,placebo_antecip,-0.07990359971098548,44
+57,2011,Construção e Transporte,placebo_reacao,-0.004222045719596877,10
+57,2011,Consumo Cíclico,placebo_antecip,-0.06648843150120583,44
+57,2011,Consumo Cíclico,placebo_reacao,-0.0375573741303187,10
+57,2011,Consumo Não Cíclico,placebo_antecip,-0.019707406105146544,44
+57,2011,Consumo Não Cíclico,placebo_reacao,-0.013083214439400769,10
+57,2011,Financeiro,placebo_antecip,0.001698737815663114,44
+57,2011,Financeiro,placebo_reacao,-0.004575387729136552,10
+57,2011,Materiais Básicos,placebo_antecip,-0.04241279975463374,44
+57,2011,Materiais Básicos,placebo_reacao,-0.01669762753136042,10
+57,2011,Outros,placebo_antecip,-0.02331432536850203,44
+57,2011,Outros,placebo_reacao,-0.04749068736394501,10
+57,2011,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.21323982900075508,44
+57,2011,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.0540405878664062,10
+57,2011,Saúde,placebo_antecip,-0.058241678005289926,44
+57,2011,Saúde,placebo_reacao,-0.0434041641540905,10
+57,2011,Utilidade Pública,placebo_antecip,0.05413941705147274,44
+57,2011,Utilidade Pública,placebo_reacao,0.022433945008429185,10
+58,2008,Bens Industriais,placebo_antecip,-0.34302714877918733,45
+58,2008,Bens Industriais,placebo_reacao,-0.19275672081805428,11
+58,2008,Comunicações,placebo_antecip,-0.16691230113236996,45
+58,2008,Comunicações,placebo_reacao,-0.17063662514821434,11
+58,2008,Construção e Transporte,placebo_antecip,-0.2640959848101672,45
+58,2008,Construção e Transporte,placebo_reacao,-0.1202823157030181,11
+58,2008,Consumo Cíclico,placebo_antecip,-0.13967194505276054,45
+58,2008,Consumo Cíclico,placebo_reacao,-0.09960955822397663,11
+58,2008,Consumo Não Cíclico,placebo_antecip,-0.34182639366470546,45
+58,2008,Consumo Não Cíclico,placebo_reacao,-0.10979587026223583,11
+58,2008,Financeiro,placebo_antecip,0.09398165893885516,45
+58,2008,Financeiro,placebo_reacao,0.015593696076357522,11
+58,2008,Materiais Básicos,placebo_antecip,-0.18109630023179443,45
+58,2008,Materiais Básicos,placebo_reacao,-0.13964742603334568,11
+58,2008,Outros,placebo_antecip,0.11242207674600611,45
+58,2008,Outros,placebo_reacao,0.036967780013247215,11
+58,2008,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.02947893719907551,45
+58,2008,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.06828432801201931,11
+58,2008,Saúde,placebo_antecip,-0.20147125094438928,45
+58,2008,Saúde,placebo_reacao,-0.06825466643819647,11
+58,2008,Utilidade Pública,placebo_antecip,-0.11306012984508935,45
+58,2008,Utilidade Pública,placebo_reacao,-0.06863012074068456,11
+59,2013,Bens Industriais,placebo_antecip,0.058396514465878256,45
+59,2013,Bens Industriais,placebo_reacao,0.06157494770866951,11
+59,2013,Comunicações,placebo_antecip,-0.025520772980765015,45
+59,2013,Comunicações,placebo_reacao,0.04430430615354604,11
+59,2013,Construção e Transporte,placebo_antecip,-0.011940187036501213,45
+59,2013,Construção e Transporte,placebo_reacao,0.004920687561828024,11
+59,2013,Consumo Cíclico,placebo_antecip,0.05978956450311569,45
+59,2013,Consumo Cíclico,placebo_reacao,0.005055624751796439,11
+59,2013,Consumo Não Cíclico,placebo_antecip,0.0320744381647609,45
+59,2013,Consumo Não Cíclico,placebo_reacao,0.06011592531803041,11
+59,2013,Financeiro,placebo_antecip,0.01894839124942223,45
+59,2013,Financeiro,placebo_reacao,0.008269404878798832,11
+59,2013,Materiais Básicos,placebo_antecip,0.02847421003392507,45
+59,2013,Materiais Básicos,placebo_reacao,0.0007305127604372019,11
+59,2013,Outros,placebo_antecip,-0.048097957214471715,45
+59,2013,Outros,placebo_reacao,0.0011729180071494176,11
+59,2013,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.002955796752476583,45
+59,2013,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.059765875636036,11
+59,2013,Saúde,placebo_antecip,-0.02295758420997572,45
+59,2013,Saúde,placebo_reacao,0.03568682654837174,11
+59,2013,Utilidade Pública,placebo_antecip,0.006292653807809171,45
+59,2013,Utilidade Pública,placebo_reacao,-0.00902816680743286,11
+60,2011,Bens Industriais,placebo_antecip,-0.022190299525799283,45
+60,2011,Bens Industriais,placebo_reacao,-0.04386437438549047,11
+60,2011,Comunicações,placebo_antecip,0.07649746674775146,44
+60,2011,Comunicações,placebo_reacao,-0.039211219045531556,10
+60,2011,Construção e Transporte,placebo_antecip,-0.07990359971098548,44
+60,2011,Construção e Transporte,placebo_reacao,-0.004222045719596877,10
+60,2011,Consumo Cíclico,placebo_antecip,-0.06648843150120583,44
+60,2011,Consumo Cíclico,placebo_reacao,-0.0375573741303187,10
+60,2011,Consumo Não Cíclico,placebo_antecip,-0.019707406105146544,44
+60,2011,Consumo Não Cíclico,placebo_reacao,-0.013083214439400769,10
+60,2011,Financeiro,placebo_antecip,0.001698737815663114,44
+60,2011,Financeiro,placebo_reacao,-0.004575387729136552,10
+60,2011,Materiais Básicos,placebo_antecip,-0.04241279975463374,44
+60,2011,Materiais Básicos,placebo_reacao,-0.01669762753136042,10
+60,2011,Outros,placebo_antecip,-0.02331432536850203,44
+60,2011,Outros,placebo_reacao,-0.04749068736394501,10
+60,2011,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.21323982900075508,44
+60,2011,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.0540405878664062,10
+60,2011,Saúde,placebo_antecip,-0.058241678005289926,44
+60,2011,Saúde,placebo_reacao,-0.0434041641540905,10
+60,2011,Utilidade Pública,placebo_antecip,0.05413941705147274,44
+60,2011,Utilidade Pública,placebo_reacao,0.022433945008429185,10
+61,2004,Bens Industriais,placebo_antecip,0.14656371605210794,45
+61,2004,Bens Industriais,placebo_reacao,-0.004340745326147772,11
+61,2004,Comunicações,placebo_antecip,0.24937338215720894,45
+61,2004,Comunicações,placebo_reacao,0.005463972681305298,11
+61,2004,Construção e Transporte,placebo_antecip,-0.0054017438973288645,45
+61,2004,Construção e Transporte,placebo_reacao,-0.002801199355572586,11
+61,2004,Consumo Cíclico,placebo_antecip,0.01378647478190498,45
+61,2004,Consumo Cíclico,placebo_reacao,0.0037870875056402187,11
+61,2004,Consumo Não Cíclico,placebo_antecip,0.6849310745371743,45
+61,2004,Consumo Não Cíclico,placebo_reacao,0.1676131033876362,11
+61,2004,Financeiro,placebo_antecip,0.1988147177445398,45
+61,2004,Financeiro,placebo_reacao,-0.12228405530909137,11
+61,2004,Materiais Básicos,placebo_antecip,0.19066107887731762,45
+61,2004,Materiais Básicos,placebo_reacao,0.02820111615125401,11
+61,2004,Outros,placebo_antecip,0.22285982012381256,45
+61,2004,Outros,placebo_reacao,0.1847262180508345,11
+61,2004,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.08934229718847227,45
+61,2004,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.010345059889149976,11
+61,2004,Saúde,placebo_antecip,0.1193973203405274,45
+61,2004,Saúde,placebo_reacao,0.029224694925231866,11
+61,2004,Utilidade Pública,placebo_antecip,0.008192363266880288,45
+61,2004,Utilidade Pública,placebo_reacao,0.013336967512660136,11
+62,2007,Bens Industriais,placebo_antecip,-0.10608524537352518,45
+62,2007,Bens Industriais,placebo_reacao,0.24752876482900868,11
+62,2007,Comunicações,placebo_antecip,-0.14479545044657788,44
+62,2007,Comunicações,placebo_reacao,0.008968049259372893,10
+62,2007,Construção e Transporte,placebo_antecip,-0.10061743015435146,44
+62,2007,Construção e Transporte,placebo_reacao,-0.029254728180560994,10
+62,2007,Consumo Cíclico,placebo_antecip,-0.012915206135545263,44
+62,2007,Consumo Cíclico,placebo_reacao,0.06445183856065946,10
+62,2007,Consumo Não Cíclico,placebo_antecip,-0.09183663100597966,44
+62,2007,Consumo Não Cíclico,placebo_reacao,0.025339940069309806,10
+62,2007,Financeiro,placebo_antecip,-0.17538650123647856,44
+62,2007,Financeiro,placebo_reacao,-0.013942748313546065,10
+62,2007,Materiais Básicos,placebo_antecip,-0.1269098731865971,44
+62,2007,Materiais Básicos,placebo_reacao,-0.013338503604849715,10
+62,2007,Outros,placebo_antecip,-0.21953450465468946,44
+62,2007,Outros,placebo_reacao,-0.035139103439759956,10
+62,2007,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.8861787449241793,44
+62,2007,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.20042391966617806,10
+62,2007,Saúde,placebo_antecip,2.239646598204198,44
+62,2007,Saúde,placebo_reacao,-0.012866731726636702,10
+62,2007,Utilidade Pública,placebo_antecip,-0.0976618062961863,44
+62,2007,Utilidade Pública,placebo_reacao,-0.019494870661112898,10
+63,2013,Bens Industriais,placebo_antecip,0.058396514465878256,45
+63,2013,Bens Industriais,placebo_reacao,0.06157494770866951,11
+63,2013,Comunicações,placebo_antecip,-0.025520772980765015,45
+63,2013,Comunicações,placebo_reacao,0.04430430615354604,11
+63,2013,Construção e Transporte,placebo_antecip,-0.011940187036501213,45
+63,2013,Construção e Transporte,placebo_reacao,0.004920687561828024,11
+63,2013,Consumo Cíclico,placebo_antecip,0.05978956450311569,45
+63,2013,Consumo Cíclico,placebo_reacao,0.005055624751796439,11
+63,2013,Consumo Não Cíclico,placebo_antecip,0.0320744381647609,45
+63,2013,Consumo Não Cíclico,placebo_reacao,0.06011592531803041,11
+63,2013,Financeiro,placebo_antecip,0.01894839124942223,45
+63,2013,Financeiro,placebo_reacao,0.008269404878798832,11
+63,2013,Materiais Básicos,placebo_antecip,0.02847421003392507,45
+63,2013,Materiais Básicos,placebo_reacao,0.0007305127604372019,11
+63,2013,Outros,placebo_antecip,-0.048097957214471715,45
+63,2013,Outros,placebo_reacao,0.0011729180071494176,11
+63,2013,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.002955796752476583,45
+63,2013,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.059765875636036,11
+63,2013,Saúde,placebo_antecip,-0.02295758420997572,45
+63,2013,Saúde,placebo_reacao,0.03568682654837174,11
+63,2013,Utilidade Pública,placebo_antecip,0.006292653807809171,45
+63,2013,Utilidade Pública,placebo_reacao,-0.00902816680743286,11
+64,2017,Bens Industriais,placebo_antecip,0.23238885074622465,45
+64,2017,Bens Industriais,placebo_reacao,0.05938087446195836,11
+64,2017,Comunicações,placebo_antecip,-0.10520445971408128,45
+64,2017,Comunicações,placebo_reacao,0.0026470061311014478,11
+64,2017,Construção e Transporte,placebo_antecip,0.040713163046488685,45
+64,2017,Construção e Transporte,placebo_reacao,0.006575341135759791,11
+64,2017,Consumo Cíclico,placebo_antecip,0.01664891882755319,45
+64,2017,Consumo Cíclico,placebo_reacao,0.002548240439385868,11
+64,2017,Consumo Não Cíclico,placebo_antecip,-0.00691513452577543,45
+64,2017,Consumo Não Cíclico,placebo_reacao,-0.001661768138784059,11
+64,2017,Financeiro,placebo_antecip,-0.013181129592810557,45
+64,2017,Financeiro,placebo_reacao,-0.012493156876348123,11
+64,2017,Materiais Básicos,placebo_antecip,-0.03201287111695489,45
+64,2017,Materiais Básicos,placebo_reacao,-0.004970679141854616,11
+64,2017,Outros,placebo_antecip,0.07955257425379952,45
+64,2017,Outros,placebo_reacao,-0.005068229232246835,11
+64,2017,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.03349241913806458,45
+64,2017,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.01766186187435247,11
+64,2017,Saúde,placebo_antecip,-0.016224923297004295,45
+64,2017,Saúde,placebo_reacao,-0.03869499333775888,11
+64,2017,Utilidade Pública,placebo_antecip,-0.08193078666005703,45
+64,2017,Utilidade Pública,placebo_reacao,-0.025233442787267454,11
+65,2020,Bens Industriais,placebo_antecip,-0.05220703180014831,45
+65,2020,Bens Industriais,placebo_reacao,-0.010590146946048705,11
+65,2020,Comunicações,placebo_antecip,-0.10485640099005601,45
+65,2020,Comunicações,placebo_reacao,-0.008484007254443105,11
+65,2020,Construção e Transporte,placebo_antecip,0.013834063524505258,45
+65,2020,Construção e Transporte,placebo_reacao,0.010070624170060166,11
+65,2020,Consumo Cíclico,placebo_antecip,0.0015684284570028966,45
+65,2020,Consumo Cíclico,placebo_reacao,-0.00045904065750485695,11
+65,2020,Consumo Não Cíclico,placebo_antecip,0.03921850710009196,45
+65,2020,Consumo Não Cíclico,placebo_reacao,0.007621027874929184,11
+65,2020,Financeiro,placebo_antecip,-0.015679766205140458,45
+65,2020,Financeiro,placebo_reacao,-0.007071736508551098,11
+65,2020,Materiais Básicos,placebo_antecip,0.04176414498288646,45
+65,2020,Materiais Básicos,placebo_reacao,-0.003888546648312241,11
+65,2020,Outros,placebo_antecip,0.10095680233562108,45
+65,2020,Outros,placebo_reacao,0.18624716301489752,11
+65,2020,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.020200186435386357,45
+65,2020,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.06676380404879684,11
+65,2020,Saúde,placebo_antecip,-0.004677495291088078,45
+65,2020,Saúde,placebo_reacao,-0.000799598478156941,11
+65,2020,Utilidade Pública,placebo_antecip,-0.0024015744195320533,45
+65,2020,Utilidade Pública,placebo_reacao,-0.0015953836709406213,11
+66,2004,Bens Industriais,placebo_antecip,0.14656371605210794,45
+66,2004,Bens Industriais,placebo_reacao,-0.004340745326147772,11
+66,2004,Comunicações,placebo_antecip,0.24937338215720894,45
+66,2004,Comunicações,placebo_reacao,0.005463972681305298,11
+66,2004,Construção e Transporte,placebo_antecip,-0.0054017438973288645,45
+66,2004,Construção e Transporte,placebo_reacao,-0.002801199355572586,11
+66,2004,Consumo Cíclico,placebo_antecip,0.01378647478190498,45
+66,2004,Consumo Cíclico,placebo_reacao,0.0037870875056402187,11
+66,2004,Consumo Não Cíclico,placebo_antecip,0.6849310745371743,45
+66,2004,Consumo Não Cíclico,placebo_reacao,0.1676131033876362,11
+66,2004,Financeiro,placebo_antecip,0.1988147177445398,45
+66,2004,Financeiro,placebo_reacao,-0.12228405530909137,11
+66,2004,Materiais Básicos,placebo_antecip,0.19066107887731762,45
+66,2004,Materiais Básicos,placebo_reacao,0.02820111615125401,11
+66,2004,Outros,placebo_antecip,0.22285982012381256,45
+66,2004,Outros,placebo_reacao,0.1847262180508345,11
+66,2004,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.08934229718847227,45
+66,2004,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.010345059889149976,11
+66,2004,Saúde,placebo_antecip,0.1193973203405274,45
+66,2004,Saúde,placebo_reacao,0.029224694925231866,11
+66,2004,Utilidade Pública,placebo_antecip,0.008192363266880288,45
+66,2004,Utilidade Pública,placebo_reacao,0.013336967512660136,11
+67,2015,Bens Industriais,placebo_antecip,0.002813124534554021,45
+67,2015,Bens Industriais,placebo_reacao,0.04959686110834663,11
+67,2015,Comunicações,placebo_antecip,-0.11633395086905468,45
+67,2015,Comunicações,placebo_reacao,0.041264022048742965,10
+67,2015,Construção e Transporte,placebo_antecip,-0.0659077895495574,45
+67,2015,Construção e Transporte,placebo_reacao,0.04817888486911544,10
+67,2015,Consumo Cíclico,placebo_antecip,-0.07952537558624267,45
+67,2015,Consumo Cíclico,placebo_reacao,0.041849858128909644,10
+67,2015,Consumo Não Cíclico,placebo_antecip,0.0024125932676506597,45
+67,2015,Consumo Não Cíclico,placebo_reacao,0.048446676864872106,10
+67,2015,Financeiro,placebo_antecip,-0.01165129501323817,45
+67,2015,Financeiro,placebo_reacao,0.010270092778176398,10
+67,2015,Materiais Básicos,placebo_antecip,0.02017613755732302,45
+67,2015,Materiais Básicos,placebo_reacao,0.04529631336243263,10
+67,2015,Outros,placebo_antecip,0.01889159734074182,45
+67,2015,Outros,placebo_reacao,0.043886048480949624,10
+67,2015,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.1807534053163141,45
+67,2015,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.02408283789067761,10
+67,2015,Saúde,placebo_antecip,-0.08016250904998536,45
+67,2015,Saúde,placebo_reacao,0.041222810234152085,10
+67,2015,Utilidade Pública,placebo_antecip,-0.024843843365750816,45
+67,2015,Utilidade Pública,placebo_reacao,0.03585642516675705,10
+68,2013,Bens Industriais,placebo_antecip,0.058396514465878256,45
+68,2013,Bens Industriais,placebo_reacao,0.06157494770866951,11
+68,2013,Comunicações,placebo_antecip,-0.025520772980765015,45
+68,2013,Comunicações,placebo_reacao,0.04430430615354604,11
+68,2013,Construção e Transporte,placebo_antecip,-0.011940187036501213,45
+68,2013,Construção e Transporte,placebo_reacao,0.004920687561828024,11
+68,2013,Consumo Cíclico,placebo_antecip,0.05978956450311569,45
+68,2013,Consumo Cíclico,placebo_reacao,0.005055624751796439,11
+68,2013,Consumo Não Cíclico,placebo_antecip,0.0320744381647609,45
+68,2013,Consumo Não Cíclico,placebo_reacao,0.06011592531803041,11
+68,2013,Financeiro,placebo_antecip,0.01894839124942223,45
+68,2013,Financeiro,placebo_reacao,0.008269404878798832,11
+68,2013,Materiais Básicos,placebo_antecip,0.02847421003392507,45
+68,2013,Materiais Básicos,placebo_reacao,0.0007305127604372019,11
+68,2013,Outros,placebo_antecip,-0.048097957214471715,45
+68,2013,Outros,placebo_reacao,0.0011729180071494176,11
+68,2013,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.002955796752476583,45
+68,2013,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.059765875636036,11
+68,2013,Saúde,placebo_antecip,-0.02295758420997572,45
+68,2013,Saúde,placebo_reacao,0.03568682654837174,11
+68,2013,Utilidade Pública,placebo_antecip,0.006292653807809171,45
+68,2013,Utilidade Pública,placebo_reacao,-0.00902816680743286,11
+69,2015,Bens Industriais,placebo_antecip,0.002813124534554021,45
+69,2015,Bens Industriais,placebo_reacao,0.04959686110834663,11
+69,2015,Comunicações,placebo_antecip,-0.11633395086905468,45
+69,2015,Comunicações,placebo_reacao,0.041264022048742965,10
+69,2015,Construção e Transporte,placebo_antecip,-0.0659077895495574,45
+69,2015,Construção e Transporte,placebo_reacao,0.04817888486911544,10
+69,2015,Consumo Cíclico,placebo_antecip,-0.07952537558624267,45
+69,2015,Consumo Cíclico,placebo_reacao,0.041849858128909644,10
+69,2015,Consumo Não Cíclico,placebo_antecip,0.0024125932676506597,45
+69,2015,Consumo Não Cíclico,placebo_reacao,0.048446676864872106,10
+69,2015,Financeiro,placebo_antecip,-0.01165129501323817,45
+69,2015,Financeiro,placebo_reacao,0.010270092778176398,10
+69,2015,Materiais Básicos,placebo_antecip,0.02017613755732302,45
+69,2015,Materiais Básicos,placebo_reacao,0.04529631336243263,10
+69,2015,Outros,placebo_antecip,0.01889159734074182,45
+69,2015,Outros,placebo_reacao,0.043886048480949624,10
+69,2015,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.1807534053163141,45
+69,2015,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.02408283789067761,10
+69,2015,Saúde,placebo_antecip,-0.08016250904998536,45
+69,2015,Saúde,placebo_reacao,0.041222810234152085,10
+69,2015,Utilidade Pública,placebo_antecip,-0.024843843365750816,45
+69,2015,Utilidade Pública,placebo_reacao,0.03585642516675705,10
+70,2008,Bens Industriais,placebo_antecip,-0.34302714877918733,45
+70,2008,Bens Industriais,placebo_reacao,-0.19275672081805428,11
+70,2008,Comunicações,placebo_antecip,-0.16691230113236996,45
+70,2008,Comunicações,placebo_reacao,-0.17063662514821434,11
+70,2008,Construção e Transporte,placebo_antecip,-0.2640959848101672,45
+70,2008,Construção e Transporte,placebo_reacao,-0.1202823157030181,11
+70,2008,Consumo Cíclico,placebo_antecip,-0.13967194505276054,45
+70,2008,Consumo Cíclico,placebo_reacao,-0.09960955822397663,11
+70,2008,Consumo Não Cíclico,placebo_antecip,-0.34182639366470546,45
+70,2008,Consumo Não Cíclico,placebo_reacao,-0.10979587026223583,11
+70,2008,Financeiro,placebo_antecip,0.09398165893885516,45
+70,2008,Financeiro,placebo_reacao,0.015593696076357522,11
+70,2008,Materiais Básicos,placebo_antecip,-0.18109630023179443,45
+70,2008,Materiais Básicos,placebo_reacao,-0.13964742603334568,11
+70,2008,Outros,placebo_antecip,0.11242207674600611,45
+70,2008,Outros,placebo_reacao,0.036967780013247215,11
+70,2008,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.02947893719907551,45
+70,2008,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.06828432801201931,11
+70,2008,Saúde,placebo_antecip,-0.20147125094438928,45
+70,2008,Saúde,placebo_reacao,-0.06825466643819647,11
+70,2008,Utilidade Pública,placebo_antecip,-0.11306012984508935,45
+70,2008,Utilidade Pública,placebo_reacao,-0.06863012074068456,11
+71,2004,Bens Industriais,placebo_antecip,0.14656371605210794,45
+71,2004,Bens Industriais,placebo_reacao,-0.004340745326147772,11
+71,2004,Comunicações,placebo_antecip,0.24937338215720894,45
+71,2004,Comunicações,placebo_reacao,0.005463972681305298,11
+71,2004,Construção e Transporte,placebo_antecip,-0.0054017438973288645,45
+71,2004,Construção e Transporte,placebo_reacao,-0.002801199355572586,11
+71,2004,Consumo Cíclico,placebo_antecip,0.01378647478190498,45
+71,2004,Consumo Cíclico,placebo_reacao,0.0037870875056402187,11
+71,2004,Consumo Não Cíclico,placebo_antecip,0.6849310745371743,45
+71,2004,Consumo Não Cíclico,placebo_reacao,0.1676131033876362,11
+71,2004,Financeiro,placebo_antecip,0.1988147177445398,45
+71,2004,Financeiro,placebo_reacao,-0.12228405530909137,11
+71,2004,Materiais Básicos,placebo_antecip,0.19066107887731762,45
+71,2004,Materiais Básicos,placebo_reacao,0.02820111615125401,11
+71,2004,Outros,placebo_antecip,0.22285982012381256,45
+71,2004,Outros,placebo_reacao,0.1847262180508345,11
+71,2004,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.08934229718847227,45
+71,2004,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.010345059889149976,11
+71,2004,Saúde,placebo_antecip,0.1193973203405274,45
+71,2004,Saúde,placebo_reacao,0.029224694925231866,11
+71,2004,Utilidade Pública,placebo_antecip,0.008192363266880288,45
+71,2004,Utilidade Pública,placebo_reacao,0.013336967512660136,11
+72,2007,Bens Industriais,placebo_antecip,-0.10608524537352518,45
+72,2007,Bens Industriais,placebo_reacao,0.24752876482900868,11
+72,2007,Comunicações,placebo_antecip,-0.14479545044657788,44
+72,2007,Comunicações,placebo_reacao,0.008968049259372893,10
+72,2007,Construção e Transporte,placebo_antecip,-0.10061743015435146,44
+72,2007,Construção e Transporte,placebo_reacao,-0.029254728180560994,10
+72,2007,Consumo Cíclico,placebo_antecip,-0.012915206135545263,44
+72,2007,Consumo Cíclico,placebo_reacao,0.06445183856065946,10
+72,2007,Consumo Não Cíclico,placebo_antecip,-0.09183663100597966,44
+72,2007,Consumo Não Cíclico,placebo_reacao,0.025339940069309806,10
+72,2007,Financeiro,placebo_antecip,-0.17538650123647856,44
+72,2007,Financeiro,placebo_reacao,-0.013942748313546065,10
+72,2007,Materiais Básicos,placebo_antecip,-0.1269098731865971,44
+72,2007,Materiais Básicos,placebo_reacao,-0.013338503604849715,10
+72,2007,Outros,placebo_antecip,-0.21953450465468946,44
+72,2007,Outros,placebo_reacao,-0.035139103439759956,10
+72,2007,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.8861787449241793,44
+72,2007,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.20042391966617806,10
+72,2007,Saúde,placebo_antecip,2.239646598204198,44
+72,2007,Saúde,placebo_reacao,-0.012866731726636702,10
+72,2007,Utilidade Pública,placebo_antecip,-0.0976618062961863,44
+72,2007,Utilidade Pública,placebo_reacao,-0.019494870661112898,10
+73,2017,Bens Industriais,placebo_antecip,0.23238885074622465,45
+73,2017,Bens Industriais,placebo_reacao,0.05938087446195836,11
+73,2017,Comunicações,placebo_antecip,-0.10520445971408128,45
+73,2017,Comunicações,placebo_reacao,0.0026470061311014478,11
+73,2017,Construção e Transporte,placebo_antecip,0.040713163046488685,45
+73,2017,Construção e Transporte,placebo_reacao,0.006575341135759791,11
+73,2017,Consumo Cíclico,placebo_antecip,0.01664891882755319,45
+73,2017,Consumo Cíclico,placebo_reacao,0.002548240439385868,11
+73,2017,Consumo Não Cíclico,placebo_antecip,-0.00691513452577543,45
+73,2017,Consumo Não Cíclico,placebo_reacao,-0.001661768138784059,11
+73,2017,Financeiro,placebo_antecip,-0.013181129592810557,45
+73,2017,Financeiro,placebo_reacao,-0.012493156876348123,11
+73,2017,Materiais Básicos,placebo_antecip,-0.03201287111695489,45
+73,2017,Materiais Básicos,placebo_reacao,-0.004970679141854616,11
+73,2017,Outros,placebo_antecip,0.07955257425379952,45
+73,2017,Outros,placebo_reacao,-0.005068229232246835,11
+73,2017,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.03349241913806458,45
+73,2017,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.01766186187435247,11
+73,2017,Saúde,placebo_antecip,-0.016224923297004295,45
+73,2017,Saúde,placebo_reacao,-0.03869499333775888,11
+73,2017,Utilidade Pública,placebo_antecip,-0.08193078666005703,45
+73,2017,Utilidade Pública,placebo_reacao,-0.025233442787267454,11
+74,2021,Bens Industriais,placebo_antecip,-0.1391397834617836,45
+74,2021,Bens Industriais,placebo_reacao,-0.06114799820589918,11
+74,2021,Comunicações,placebo_antecip,-0.21651465062870195,45
+74,2021,Comunicações,placebo_reacao,-0.060392812664231105,11
+74,2021,Construção e Transporte,placebo_antecip,-0.10053319328507798,45
+74,2021,Construção e Transporte,placebo_reacao,-0.003982320511207624,11
+74,2021,Consumo Cíclico,placebo_antecip,-0.10425131402818341,45
+74,2021,Consumo Cíclico,placebo_reacao,-0.039822463523599604,11
+74,2021,Consumo Não Cíclico,placebo_antecip,-0.0573063292087133,45
+74,2021,Consumo Não Cíclico,placebo_reacao,-0.018857014200380454,11
+74,2021,Financeiro,placebo_antecip,-0.057355651319438414,45
+74,2021,Financeiro,placebo_reacao,-0.0304158547240246,11
+74,2021,Materiais Básicos,placebo_antecip,-0.17401085281362477,45
+74,2021,Materiais Básicos,placebo_reacao,-0.011898989532014709,11
+74,2021,Outros,placebo_antecip,-0.1443400925928149,45
+74,2021,Outros,placebo_reacao,-0.0029190437781755653,11
+74,2021,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.08678025607708285,45
+74,2021,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.0022642223458207364,11
+74,2021,Saúde,placebo_antecip,-0.04018388413868364,45
+74,2021,Saúde,placebo_reacao,-0.08535520267722937,11
+74,2021,Utilidade Pública,placebo_antecip,-0.010887069174067975,45
+74,2021,Utilidade Pública,placebo_reacao,-0.004882416586574052,11
+75,2017,Bens Industriais,placebo_antecip,0.23238885074622465,45
+75,2017,Bens Industriais,placebo_reacao,0.05938087446195836,11
+75,2017,Comunicações,placebo_antecip,-0.10520445971408128,45
+75,2017,Comunicações,placebo_reacao,0.0026470061311014478,11
+75,2017,Construção e Transporte,placebo_antecip,0.040713163046488685,45
+75,2017,Construção e Transporte,placebo_reacao,0.006575341135759791,11
+75,2017,Consumo Cíclico,placebo_antecip,0.01664891882755319,45
+75,2017,Consumo Cíclico,placebo_reacao,0.002548240439385868,11
+75,2017,Consumo Não Cíclico,placebo_antecip,-0.00691513452577543,45
+75,2017,Consumo Não Cíclico,placebo_reacao,-0.001661768138784059,11
+75,2017,Financeiro,placebo_antecip,-0.013181129592810557,45
+75,2017,Financeiro,placebo_reacao,-0.012493156876348123,11
+75,2017,Materiais Básicos,placebo_antecip,-0.03201287111695489,45
+75,2017,Materiais Básicos,placebo_reacao,-0.004970679141854616,11
+75,2017,Outros,placebo_antecip,0.07955257425379952,45
+75,2017,Outros,placebo_reacao,-0.005068229232246835,11
+75,2017,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.03349241913806458,45
+75,2017,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.01766186187435247,11
+75,2017,Saúde,placebo_antecip,-0.016224923297004295,45
+75,2017,Saúde,placebo_reacao,-0.03869499333775888,11
+75,2017,Utilidade Pública,placebo_antecip,-0.08193078666005703,45
+75,2017,Utilidade Pública,placebo_reacao,-0.025233442787267454,11
+76,2011,Bens Industriais,placebo_antecip,-0.022190299525799283,45
+76,2011,Bens Industriais,placebo_reacao,-0.04386437438549047,11
+76,2011,Comunicações,placebo_antecip,0.07649746674775146,44
+76,2011,Comunicações,placebo_reacao,-0.039211219045531556,10
+76,2011,Construção e Transporte,placebo_antecip,-0.07990359971098548,44
+76,2011,Construção e Transporte,placebo_reacao,-0.004222045719596877,10
+76,2011,Consumo Cíclico,placebo_antecip,-0.06648843150120583,44
+76,2011,Consumo Cíclico,placebo_reacao,-0.0375573741303187,10
+76,2011,Consumo Não Cíclico,placebo_antecip,-0.019707406105146544,44
+76,2011,Consumo Não Cíclico,placebo_reacao,-0.013083214439400769,10
+76,2011,Financeiro,placebo_antecip,0.001698737815663114,44
+76,2011,Financeiro,placebo_reacao,-0.004575387729136552,10
+76,2011,Materiais Básicos,placebo_antecip,-0.04241279975463374,44
+76,2011,Materiais Básicos,placebo_reacao,-0.01669762753136042,10
+76,2011,Outros,placebo_antecip,-0.02331432536850203,44
+76,2011,Outros,placebo_reacao,-0.04749068736394501,10
+76,2011,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.21323982900075508,44
+76,2011,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.0540405878664062,10
+76,2011,Saúde,placebo_antecip,-0.058241678005289926,44
+76,2011,Saúde,placebo_reacao,-0.0434041641540905,10
+76,2011,Utilidade Pública,placebo_antecip,0.05413941705147274,44
+76,2011,Utilidade Pública,placebo_reacao,0.022433945008429185,10
+77,2017,Bens Industriais,placebo_antecip,0.23238885074622465,45
+77,2017,Bens Industriais,placebo_reacao,0.05938087446195836,11
+77,2017,Comunicações,placebo_antecip,-0.10520445971408128,45
+77,2017,Comunicações,placebo_reacao,0.0026470061311014478,11
+77,2017,Construção e Transporte,placebo_antecip,0.040713163046488685,45
+77,2017,Construção e Transporte,placebo_reacao,0.006575341135759791,11
+77,2017,Consumo Cíclico,placebo_antecip,0.01664891882755319,45
+77,2017,Consumo Cíclico,placebo_reacao,0.002548240439385868,11
+77,2017,Consumo Não Cíclico,placebo_antecip,-0.00691513452577543,45
+77,2017,Consumo Não Cíclico,placebo_reacao,-0.001661768138784059,11
+77,2017,Financeiro,placebo_antecip,-0.013181129592810557,45
+77,2017,Financeiro,placebo_reacao,-0.012493156876348123,11
+77,2017,Materiais Básicos,placebo_antecip,-0.03201287111695489,45
+77,2017,Materiais Básicos,placebo_reacao,-0.004970679141854616,11
+77,2017,Outros,placebo_antecip,0.07955257425379952,45
+77,2017,Outros,placebo_reacao,-0.005068229232246835,11
+77,2017,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.03349241913806458,45
+77,2017,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.01766186187435247,11
+77,2017,Saúde,placebo_antecip,-0.016224923297004295,45
+77,2017,Saúde,placebo_reacao,-0.03869499333775888,11
+77,2017,Utilidade Pública,placebo_antecip,-0.08193078666005703,45
+77,2017,Utilidade Pública,placebo_reacao,-0.025233442787267454,11
+78,2019,Bens Industriais,placebo_antecip,-0.024192161290224445,45
+78,2019,Bens Industriais,placebo_reacao,0.01030379254268492,11
+78,2019,Comunicações,placebo_antecip,-0.029851731034534767,45
+78,2019,Comunicações,placebo_reacao,-0.00945166364823885,11
+78,2019,Construção e Transporte,placebo_antecip,-0.05809501790579635,45
+78,2019,Construção e Transporte,placebo_reacao,-0.001149569793370532,11
+78,2019,Consumo Cíclico,placebo_antecip,0.00893369897411732,45
+78,2019,Consumo Cíclico,placebo_reacao,-0.00041286996105402386,11
+78,2019,Consumo Não Cíclico,placebo_antecip,-0.004067852872783886,45
+78,2019,Consumo Não Cíclico,placebo_reacao,-0.023087232630306286,11
+78,2019,Financeiro,placebo_antecip,-0.049829367319431175,45
+78,2019,Financeiro,placebo_reacao,0.007092660995299687,11
+78,2019,Materiais Básicos,placebo_antecip,-0.06796701406478886,45
+78,2019,Materiais Básicos,placebo_reacao,0.002520722025035931,11
+78,2019,Outros,placebo_antecip,0.2474371507399804,45
+78,2019,Outros,placebo_reacao,-0.029568018426481883,11
+78,2019,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.05761103512070127,45
+78,2019,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.008950530632815229,11
+78,2019,Saúde,placebo_antecip,0.07036243408251913,45
+78,2019,Saúde,placebo_reacao,-0.01650033696511909,11
+78,2019,Utilidade Pública,placebo_antecip,0.04283103124957032,45
+78,2019,Utilidade Pública,placebo_reacao,-0.034890297340081255,11
+79,2012,Bens Industriais,placebo_antecip,0.05977906011325102,45
+79,2012,Bens Industriais,placebo_reacao,-0.009222530374509607,11
+79,2012,Comunicações,placebo_antecip,-0.014721556513366584,44
+79,2012,Comunicações,placebo_reacao,0.08026396413238149,10
+79,2012,Construção e Transporte,placebo_antecip,0.027166238011931826,44
+79,2012,Construção e Transporte,placebo_reacao,0.02007245808897484,10
+79,2012,Consumo Cíclico,placebo_antecip,0.088770912383533,44
+79,2012,Consumo Cíclico,placebo_reacao,0.029335790578994766,10
+79,2012,Consumo Não Cíclico,placebo_antecip,0.028982331056672757,44
+79,2012,Consumo Não Cíclico,placebo_reacao,-0.021827913424889378,10
+79,2012,Financeiro,placebo_antecip,-0.01322605675699809,44
+79,2012,Financeiro,placebo_reacao,-0.018185302300552104,10
+79,2012,Materiais Básicos,placebo_antecip,0.006403379913346573,44
+79,2012,Materiais Básicos,placebo_reacao,0.010880703428874965,10
+79,2012,Outros,placebo_antecip,0.20577495754168865,44
+79,2012,Outros,placebo_reacao,-0.017428627383082575,10
+79,2012,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.014518519110150164,44
+79,2012,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.03926699503913455,10
+79,2012,Saúde,placebo_antecip,0.023112511396929103,44
+79,2012,Saúde,placebo_reacao,0.04540982492434982,10
+79,2012,Utilidade Pública,placebo_antecip,-0.07669788832209774,44
+79,2012,Utilidade Pública,placebo_reacao,-0.02198429206696275,10
+80,2021,Bens Industriais,placebo_antecip,-0.1391397834617836,45
+80,2021,Bens Industriais,placebo_reacao,-0.06114799820589918,11
+80,2021,Comunicações,placebo_antecip,-0.21651465062870195,45
+80,2021,Comunicações,placebo_reacao,-0.060392812664231105,11
+80,2021,Construção e Transporte,placebo_antecip,-0.10053319328507798,45
+80,2021,Construção e Transporte,placebo_reacao,-0.003982320511207624,11
+80,2021,Consumo Cíclico,placebo_antecip,-0.10425131402818341,45
+80,2021,Consumo Cíclico,placebo_reacao,-0.039822463523599604,11
+80,2021,Consumo Não Cíclico,placebo_antecip,-0.0573063292087133,45
+80,2021,Consumo Não Cíclico,placebo_reacao,-0.018857014200380454,11
+80,2021,Financeiro,placebo_antecip,-0.057355651319438414,45
+80,2021,Financeiro,placebo_reacao,-0.0304158547240246,11
+80,2021,Materiais Básicos,placebo_antecip,-0.17401085281362477,45
+80,2021,Materiais Básicos,placebo_reacao,-0.011898989532014709,11
+80,2021,Outros,placebo_antecip,-0.1443400925928149,45
+80,2021,Outros,placebo_reacao,-0.0029190437781755653,11
+80,2021,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.08678025607708285,45
+80,2021,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.0022642223458207364,11
+80,2021,Saúde,placebo_antecip,-0.04018388413868364,45
+80,2021,Saúde,placebo_reacao,-0.08535520267722937,11
+80,2021,Utilidade Pública,placebo_antecip,-0.010887069174067975,45
+80,2021,Utilidade Pública,placebo_reacao,-0.004882416586574052,11
+81,2005,Bens Industriais,placebo_antecip,-0.14734812498905833,45
+81,2005,Bens Industriais,placebo_reacao,-0.012718727074393784,11
+81,2005,Comunicações,placebo_antecip,0.010207997009917206,45
+81,2005,Comunicações,placebo_reacao,0.04600032715157951,11
+81,2005,Construção e Transporte,placebo_antecip,0.04928033765505906,45
+81,2005,Construção e Transporte,placebo_reacao,0.0346272891486207,11
+81,2005,Consumo Cíclico,placebo_antecip,0.05929904744428919,45
+81,2005,Consumo Cíclico,placebo_reacao,0.02277666860704489,11
+81,2005,Consumo Não Cíclico,placebo_antecip,0.039560110175269836,45
+81,2005,Consumo Não Cíclico,placebo_reacao,0.07523567014860197,11
+81,2005,Financeiro,placebo_antecip,0.044308885268119574,45
+81,2005,Financeiro,placebo_reacao,0.021651360349327433,11
+81,2005,Materiais Básicos,placebo_antecip,-0.0025805405446521204,45
+81,2005,Materiais Básicos,placebo_reacao,-0.05572889621534667,11
+81,2005,Outros,placebo_antecip,-0.057904394749602975,45
+81,2005,Outros,placebo_reacao,-0.03263052055484659,11
+81,2005,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.015999924510954833,45
+81,2005,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.004467304625920712,11
+81,2005,Saúde,placebo_antecip,0.054588542057664016,45
+81,2005,Saúde,placebo_reacao,0.029187056720245554,11
+81,2005,Utilidade Pública,placebo_antecip,0.009939498891588095,45
+81,2005,Utilidade Pública,placebo_reacao,0.03757163904310021,11
+82,2020,Bens Industriais,placebo_antecip,-0.05220703180014831,45
+82,2020,Bens Industriais,placebo_reacao,-0.010590146946048705,11
+82,2020,Comunicações,placebo_antecip,-0.10485640099005601,45
+82,2020,Comunicações,placebo_reacao,-0.008484007254443105,11
+82,2020,Construção e Transporte,placebo_antecip,0.013834063524505258,45
+82,2020,Construção e Transporte,placebo_reacao,0.010070624170060166,11
+82,2020,Consumo Cíclico,placebo_antecip,0.0015684284570028966,45
+82,2020,Consumo Cíclico,placebo_reacao,-0.00045904065750485695,11
+82,2020,Consumo Não Cíclico,placebo_antecip,0.03921850710009196,45
+82,2020,Consumo Não Cíclico,placebo_reacao,0.007621027874929184,11
+82,2020,Financeiro,placebo_antecip,-0.015679766205140458,45
+82,2020,Financeiro,placebo_reacao,-0.007071736508551098,11
+82,2020,Materiais Básicos,placebo_antecip,0.04176414498288646,45
+82,2020,Materiais Básicos,placebo_reacao,-0.003888546648312241,11
+82,2020,Outros,placebo_antecip,0.10095680233562108,45
+82,2020,Outros,placebo_reacao,0.18624716301489752,11
+82,2020,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.020200186435386357,45
+82,2020,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.06676380404879684,11
+82,2020,Saúde,placebo_antecip,-0.004677495291088078,45
+82,2020,Saúde,placebo_reacao,-0.000799598478156941,11
+82,2020,Utilidade Pública,placebo_antecip,-0.0024015744195320533,45
+82,2020,Utilidade Pública,placebo_reacao,-0.0015953836709406213,11
+83,2003,Bens Industriais,placebo_antecip,0.2316074924906987,45
+83,2003,Bens Industriais,placebo_reacao,0.06619166387253435,11
+83,2003,Comunicações,placebo_antecip,0.047728477445706505,45
+83,2003,Comunicações,placebo_reacao,-0.024262078995703165,11
+83,2003,Construção e Transporte,placebo_antecip,-0.03448579002253139,45
+83,2003,Construção e Transporte,placebo_reacao,-0.019493429660749774,11
+83,2003,Consumo Cíclico,placebo_antecip,0.0002796451071752971,45
+83,2003,Consumo Cíclico,placebo_reacao,0.015747904991004473,11
+83,2003,Consumo Não Cíclico,placebo_antecip,0.2411306327745915,45
+83,2003,Consumo Não Cíclico,placebo_reacao,0.15356000606752482,11
+83,2003,Financeiro,placebo_antecip,0.09085356971506112,45
+83,2003,Financeiro,placebo_reacao,0.007356609835687472,11
+83,2003,Materiais Básicos,placebo_antecip,0.2672954590911317,45
+83,2003,Materiais Básicos,placebo_reacao,0.10043187535533606,11
+83,2003,Outros,placebo_antecip,-0.13457495289436547,45
+83,2003,Outros,placebo_reacao,-0.044438984351481775,11
+83,2003,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.031803864007817165,45
+83,2003,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.0019993526841794616,11
+83,2003,Utilidade Pública,placebo_antecip,0.17360484205985008,45
+83,2003,Utilidade Pública,placebo_reacao,0.02581679120920565,11
+84,2007,Bens Industriais,placebo_antecip,-0.10608524537352518,45
+84,2007,Bens Industriais,placebo_reacao,0.24752876482900868,11
+84,2007,Comunicações,placebo_antecip,-0.14479545044657788,44
+84,2007,Comunicações,placebo_reacao,0.008968049259372893,10
+84,2007,Construção e Transporte,placebo_antecip,-0.10061743015435146,44
+84,2007,Construção e Transporte,placebo_reacao,-0.029254728180560994,10
+84,2007,Consumo Cíclico,placebo_antecip,-0.012915206135545263,44
+84,2007,Consumo Cíclico,placebo_reacao,0.06445183856065946,10
+84,2007,Consumo Não Cíclico,placebo_antecip,-0.09183663100597966,44
+84,2007,Consumo Não Cíclico,placebo_reacao,0.025339940069309806,10
+84,2007,Financeiro,placebo_antecip,-0.17538650123647856,44
+84,2007,Financeiro,placebo_reacao,-0.013942748313546065,10
+84,2007,Materiais Básicos,placebo_antecip,-0.1269098731865971,44
+84,2007,Materiais Básicos,placebo_reacao,-0.013338503604849715,10
+84,2007,Outros,placebo_antecip,-0.21953450465468946,44
+84,2007,Outros,placebo_reacao,-0.035139103439759956,10
+84,2007,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.8861787449241793,44
+84,2007,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.20042391966617806,10
+84,2007,Saúde,placebo_antecip,2.239646598204198,44
+84,2007,Saúde,placebo_reacao,-0.012866731726636702,10
+84,2007,Utilidade Pública,placebo_antecip,-0.0976618062961863,44
+84,2007,Utilidade Pública,placebo_reacao,-0.019494870661112898,10
+85,2004,Bens Industriais,placebo_antecip,0.14656371605210794,45
+85,2004,Bens Industriais,placebo_reacao,-0.004340745326147772,11
+85,2004,Comunicações,placebo_antecip,0.24937338215720894,45
+85,2004,Comunicações,placebo_reacao,0.005463972681305298,11
+85,2004,Construção e Transporte,placebo_antecip,-0.0054017438973288645,45
+85,2004,Construção e Transporte,placebo_reacao,-0.002801199355572586,11
+85,2004,Consumo Cíclico,placebo_antecip,0.01378647478190498,45
+85,2004,Consumo Cíclico,placebo_reacao,0.0037870875056402187,11
+85,2004,Consumo Não Cíclico,placebo_antecip,0.6849310745371743,45
+85,2004,Consumo Não Cíclico,placebo_reacao,0.1676131033876362,11
+85,2004,Financeiro,placebo_antecip,0.1988147177445398,45
+85,2004,Financeiro,placebo_reacao,-0.12228405530909137,11
+85,2004,Materiais Básicos,placebo_antecip,0.19066107887731762,45
+85,2004,Materiais Básicos,placebo_reacao,0.02820111615125401,11
+85,2004,Outros,placebo_antecip,0.22285982012381256,45
+85,2004,Outros,placebo_reacao,0.1847262180508345,11
+85,2004,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.08934229718847227,45
+85,2004,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.010345059889149976,11
+85,2004,Saúde,placebo_antecip,0.1193973203405274,45
+85,2004,Saúde,placebo_reacao,0.029224694925231866,11
+85,2004,Utilidade Pública,placebo_antecip,0.008192363266880288,45
+85,2004,Utilidade Pública,placebo_reacao,0.013336967512660136,11
+86,2012,Bens Industriais,placebo_antecip,0.05977906011325102,45
+86,2012,Bens Industriais,placebo_reacao,-0.009222530374509607,11
+86,2012,Comunicações,placebo_antecip,-0.014721556513366584,44
+86,2012,Comunicações,placebo_reacao,0.08026396413238149,10
+86,2012,Construção e Transporte,placebo_antecip,0.027166238011931826,44
+86,2012,Construção e Transporte,placebo_reacao,0.02007245808897484,10
+86,2012,Consumo Cíclico,placebo_antecip,0.088770912383533,44
+86,2012,Consumo Cíclico,placebo_reacao,0.029335790578994766,10
+86,2012,Consumo Não Cíclico,placebo_antecip,0.028982331056672757,44
+86,2012,Consumo Não Cíclico,placebo_reacao,-0.021827913424889378,10
+86,2012,Financeiro,placebo_antecip,-0.01322605675699809,44
+86,2012,Financeiro,placebo_reacao,-0.018185302300552104,10
+86,2012,Materiais Básicos,placebo_antecip,0.006403379913346573,44
+86,2012,Materiais Básicos,placebo_reacao,0.010880703428874965,10
+86,2012,Outros,placebo_antecip,0.20577495754168865,44
+86,2012,Outros,placebo_reacao,-0.017428627383082575,10
+86,2012,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.014518519110150164,44
+86,2012,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.03926699503913455,10
+86,2012,Saúde,placebo_antecip,0.023112511396929103,44
+86,2012,Saúde,placebo_reacao,0.04540982492434982,10
+86,2012,Utilidade Pública,placebo_antecip,-0.07669788832209774,44
+86,2012,Utilidade Pública,placebo_reacao,-0.02198429206696275,10
+87,2007,Bens Industriais,placebo_antecip,-0.10608524537352518,45
+87,2007,Bens Industriais,placebo_reacao,0.24752876482900868,11
+87,2007,Comunicações,placebo_antecip,-0.14479545044657788,44
+87,2007,Comunicações,placebo_reacao,0.008968049259372893,10
+87,2007,Construção e Transporte,placebo_antecip,-0.10061743015435146,44
+87,2007,Construção e Transporte,placebo_reacao,-0.029254728180560994,10
+87,2007,Consumo Cíclico,placebo_antecip,-0.012915206135545263,44
+87,2007,Consumo Cíclico,placebo_reacao,0.06445183856065946,10
+87,2007,Consumo Não Cíclico,placebo_antecip,-0.09183663100597966,44
+87,2007,Consumo Não Cíclico,placebo_reacao,0.025339940069309806,10
+87,2007,Financeiro,placebo_antecip,-0.17538650123647856,44
+87,2007,Financeiro,placebo_reacao,-0.013942748313546065,10
+87,2007,Materiais Básicos,placebo_antecip,-0.1269098731865971,44
+87,2007,Materiais Básicos,placebo_reacao,-0.013338503604849715,10
+87,2007,Outros,placebo_antecip,-0.21953450465468946,44
+87,2007,Outros,placebo_reacao,-0.035139103439759956,10
+87,2007,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.8861787449241793,44
+87,2007,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.20042391966617806,10
+87,2007,Saúde,placebo_antecip,2.239646598204198,44
+87,2007,Saúde,placebo_reacao,-0.012866731726636702,10
+87,2007,Utilidade Pública,placebo_antecip,-0.0976618062961863,44
+87,2007,Utilidade Pública,placebo_reacao,-0.019494870661112898,10
+88,2004,Bens Industriais,placebo_antecip,0.14656371605210794,45
+88,2004,Bens Industriais,placebo_reacao,-0.004340745326147772,11
+88,2004,Comunicações,placebo_antecip,0.24937338215720894,45
+88,2004,Comunicações,placebo_reacao,0.005463972681305298,11
+88,2004,Construção e Transporte,placebo_antecip,-0.0054017438973288645,45
+88,2004,Construção e Transporte,placebo_reacao,-0.002801199355572586,11
+88,2004,Consumo Cíclico,placebo_antecip,0.01378647478190498,45
+88,2004,Consumo Cíclico,placebo_reacao,0.0037870875056402187,11
+88,2004,Consumo Não Cíclico,placebo_antecip,0.6849310745371743,45
+88,2004,Consumo Não Cíclico,placebo_reacao,0.1676131033876362,11
+88,2004,Financeiro,placebo_antecip,0.1988147177445398,45
+88,2004,Financeiro,placebo_reacao,-0.12228405530909137,11
+88,2004,Materiais Básicos,placebo_antecip,0.19066107887731762,45
+88,2004,Materiais Básicos,placebo_reacao,0.02820111615125401,11
+88,2004,Outros,placebo_antecip,0.22285982012381256,45
+88,2004,Outros,placebo_reacao,0.1847262180508345,11
+88,2004,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.08934229718847227,45
+88,2004,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.010345059889149976,11
+88,2004,Saúde,placebo_antecip,0.1193973203405274,45
+88,2004,Saúde,placebo_reacao,0.029224694925231866,11
+88,2004,Utilidade Pública,placebo_antecip,0.008192363266880288,45
+88,2004,Utilidade Pública,placebo_reacao,0.013336967512660136,11
+89,2020,Bens Industriais,placebo_antecip,-0.05220703180014831,45
+89,2020,Bens Industriais,placebo_reacao,-0.010590146946048705,11
+89,2020,Comunicações,placebo_antecip,-0.10485640099005601,45
+89,2020,Comunicações,placebo_reacao,-0.008484007254443105,11
+89,2020,Construção e Transporte,placebo_antecip,0.013834063524505258,45
+89,2020,Construção e Transporte,placebo_reacao,0.010070624170060166,11
+89,2020,Consumo Cíclico,placebo_antecip,0.0015684284570028966,45
+89,2020,Consumo Cíclico,placebo_reacao,-0.00045904065750485695,11
+89,2020,Consumo Não Cíclico,placebo_antecip,0.03921850710009196,45
+89,2020,Consumo Não Cíclico,placebo_reacao,0.007621027874929184,11
+89,2020,Financeiro,placebo_antecip,-0.015679766205140458,45
+89,2020,Financeiro,placebo_reacao,-0.007071736508551098,11
+89,2020,Materiais Básicos,placebo_antecip,0.04176414498288646,45
+89,2020,Materiais Básicos,placebo_reacao,-0.003888546648312241,11
+89,2020,Outros,placebo_antecip,0.10095680233562108,45
+89,2020,Outros,placebo_reacao,0.18624716301489752,11
+89,2020,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.020200186435386357,45
+89,2020,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.06676380404879684,11
+89,2020,Saúde,placebo_antecip,-0.004677495291088078,45
+89,2020,Saúde,placebo_reacao,-0.000799598478156941,11
+89,2020,Utilidade Pública,placebo_antecip,-0.0024015744195320533,45
+89,2020,Utilidade Pública,placebo_reacao,-0.0015953836709406213,11
+90,2009,Bens Industriais,placebo_antecip,0.08539281333144721,45
+90,2009,Bens Industriais,placebo_reacao,-0.058727287178736196,11
+90,2009,Comunicações,placebo_antecip,0.034430834280478356,45
+90,2009,Comunicações,placebo_reacao,0.05934310363862662,10
+90,2009,Construção e Transporte,placebo_antecip,0.03593871912234751,45
+90,2009,Construção e Transporte,placebo_reacao,-0.006638304865802474,10
+90,2009,Consumo Cíclico,placebo_antecip,0.051236362251125045,45
+90,2009,Consumo Cíclico,placebo_reacao,0.04245398778345962,10
+90,2009,Consumo Não Cíclico,placebo_antecip,0.02144055488604127,45
+90,2009,Consumo Não Cíclico,placebo_reacao,-0.0020242347594627056,10
+90,2009,Financeiro,placebo_antecip,0.09082497933054816,45
+90,2009,Financeiro,placebo_reacao,0.009850367592237893,10
+90,2009,Materiais Básicos,placebo_antecip,0.10902780614617685,45
+90,2009,Materiais Básicos,placebo_reacao,0.03351189740605138,10
+90,2009,Outros,placebo_antecip,0.06609562103023174,45
+90,2009,Outros,placebo_reacao,0.010707351666748025,10
+90,2009,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.009524774296561933,45
+90,2009,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.05808561971149035,10
+90,2009,Saúde,placebo_antecip,0.14311309068037578,45
+90,2009,Saúde,placebo_reacao,0.030612507848081838,10
+90,2009,Utilidade Pública,placebo_antecip,0.01122642207347098,45
+90,2009,Utilidade Pública,placebo_reacao,0.018856520982903455,10
+91,2009,Bens Industriais,placebo_antecip,0.08539281333144721,45
+91,2009,Bens Industriais,placebo_reacao,-0.058727287178736196,11
+91,2009,Comunicações,placebo_antecip,0.034430834280478356,45
+91,2009,Comunicações,placebo_reacao,0.05934310363862662,10
+91,2009,Construção e Transporte,placebo_antecip,0.03593871912234751,45
+91,2009,Construção e Transporte,placebo_reacao,-0.006638304865802474,10
+91,2009,Consumo Cíclico,placebo_antecip,0.051236362251125045,45
+91,2009,Consumo Cíclico,placebo_reacao,0.04245398778345962,10
+91,2009,Consumo Não Cíclico,placebo_antecip,0.02144055488604127,45
+91,2009,Consumo Não Cíclico,placebo_reacao,-0.0020242347594627056,10
+91,2009,Financeiro,placebo_antecip,0.09082497933054816,45
+91,2009,Financeiro,placebo_reacao,0.009850367592237893,10
+91,2009,Materiais Básicos,placebo_antecip,0.10902780614617685,45
+91,2009,Materiais Básicos,placebo_reacao,0.03351189740605138,10
+91,2009,Outros,placebo_antecip,0.06609562103023174,45
+91,2009,Outros,placebo_reacao,0.010707351666748025,10
+91,2009,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.009524774296561933,45
+91,2009,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.05808561971149035,10
+91,2009,Saúde,placebo_antecip,0.14311309068037578,45
+91,2009,Saúde,placebo_reacao,0.030612507848081838,10
+91,2009,Utilidade Pública,placebo_antecip,0.01122642207347098,45
+91,2009,Utilidade Pública,placebo_reacao,0.018856520982903455,10
+92,2015,Bens Industriais,placebo_antecip,0.002813124534554021,45
+92,2015,Bens Industriais,placebo_reacao,0.04959686110834663,11
+92,2015,Comunicações,placebo_antecip,-0.11633395086905468,45
+92,2015,Comunicações,placebo_reacao,0.041264022048742965,10
+92,2015,Construção e Transporte,placebo_antecip,-0.0659077895495574,45
+92,2015,Construção e Transporte,placebo_reacao,0.04817888486911544,10
+92,2015,Consumo Cíclico,placebo_antecip,-0.07952537558624267,45
+92,2015,Consumo Cíclico,placebo_reacao,0.041849858128909644,10
+92,2015,Consumo Não Cíclico,placebo_antecip,0.0024125932676506597,45
+92,2015,Consumo Não Cíclico,placebo_reacao,0.048446676864872106,10
+92,2015,Financeiro,placebo_antecip,-0.01165129501323817,45
+92,2015,Financeiro,placebo_reacao,0.010270092778176398,10
+92,2015,Materiais Básicos,placebo_antecip,0.02017613755732302,45
+92,2015,Materiais Básicos,placebo_reacao,0.04529631336243263,10
+92,2015,Outros,placebo_antecip,0.01889159734074182,45
+92,2015,Outros,placebo_reacao,0.043886048480949624,10
+92,2015,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.1807534053163141,45
+92,2015,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.02408283789067761,10
+92,2015,Saúde,placebo_antecip,-0.08016250904998536,45
+92,2015,Saúde,placebo_reacao,0.041222810234152085,10
+92,2015,Utilidade Pública,placebo_antecip,-0.024843843365750816,45
+92,2015,Utilidade Pública,placebo_reacao,0.03585642516675705,10
+93,2007,Bens Industriais,placebo_antecip,-0.10608524537352518,45
+93,2007,Bens Industriais,placebo_reacao,0.24752876482900868,11
+93,2007,Comunicações,placebo_antecip,-0.14479545044657788,44
+93,2007,Comunicações,placebo_reacao,0.008968049259372893,10
+93,2007,Construção e Transporte,placebo_antecip,-0.10061743015435146,44
+93,2007,Construção e Transporte,placebo_reacao,-0.029254728180560994,10
+93,2007,Consumo Cíclico,placebo_antecip,-0.012915206135545263,44
+93,2007,Consumo Cíclico,placebo_reacao,0.06445183856065946,10
+93,2007,Consumo Não Cíclico,placebo_antecip,-0.09183663100597966,44
+93,2007,Consumo Não Cíclico,placebo_reacao,0.025339940069309806,10
+93,2007,Financeiro,placebo_antecip,-0.17538650123647856,44
+93,2007,Financeiro,placebo_reacao,-0.013942748313546065,10
+93,2007,Materiais Básicos,placebo_antecip,-0.1269098731865971,44
+93,2007,Materiais Básicos,placebo_reacao,-0.013338503604849715,10
+93,2007,Outros,placebo_antecip,-0.21953450465468946,44
+93,2007,Outros,placebo_reacao,-0.035139103439759956,10
+93,2007,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.8861787449241793,44
+93,2007,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.20042391966617806,10
+93,2007,Saúde,placebo_antecip,2.239646598204198,44
+93,2007,Saúde,placebo_reacao,-0.012866731726636702,10
+93,2007,Utilidade Pública,placebo_antecip,-0.0976618062961863,44
+93,2007,Utilidade Pública,placebo_reacao,-0.019494870661112898,10
+94,2009,Bens Industriais,placebo_antecip,0.08539281333144721,45
+94,2009,Bens Industriais,placebo_reacao,-0.058727287178736196,11
+94,2009,Comunicações,placebo_antecip,0.034430834280478356,45
+94,2009,Comunicações,placebo_reacao,0.05934310363862662,10
+94,2009,Construção e Transporte,placebo_antecip,0.03593871912234751,45
+94,2009,Construção e Transporte,placebo_reacao,-0.006638304865802474,10
+94,2009,Consumo Cíclico,placebo_antecip,0.051236362251125045,45
+94,2009,Consumo Cíclico,placebo_reacao,0.04245398778345962,10
+94,2009,Consumo Não Cíclico,placebo_antecip,0.02144055488604127,45
+94,2009,Consumo Não Cíclico,placebo_reacao,-0.0020242347594627056,10
+94,2009,Financeiro,placebo_antecip,0.09082497933054816,45
+94,2009,Financeiro,placebo_reacao,0.009850367592237893,10
+94,2009,Materiais Básicos,placebo_antecip,0.10902780614617685,45
+94,2009,Materiais Básicos,placebo_reacao,0.03351189740605138,10
+94,2009,Outros,placebo_antecip,0.06609562103023174,45
+94,2009,Outros,placebo_reacao,0.010707351666748025,10
+94,2009,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.009524774296561933,45
+94,2009,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.05808561971149035,10
+94,2009,Saúde,placebo_antecip,0.14311309068037578,45
+94,2009,Saúde,placebo_reacao,0.030612507848081838,10
+94,2009,Utilidade Pública,placebo_antecip,0.01122642207347098,45
+94,2009,Utilidade Pública,placebo_reacao,0.018856520982903455,10
+95,2019,Bens Industriais,placebo_antecip,-0.024192161290224445,45
+95,2019,Bens Industriais,placebo_reacao,0.01030379254268492,11
+95,2019,Comunicações,placebo_antecip,-0.029851731034534767,45
+95,2019,Comunicações,placebo_reacao,-0.00945166364823885,11
+95,2019,Construção e Transporte,placebo_antecip,-0.05809501790579635,45
+95,2019,Construção e Transporte,placebo_reacao,-0.001149569793370532,11
+95,2019,Consumo Cíclico,placebo_antecip,0.00893369897411732,45
+95,2019,Consumo Cíclico,placebo_reacao,-0.00041286996105402386,11
+95,2019,Consumo Não Cíclico,placebo_antecip,-0.004067852872783886,45
+95,2019,Consumo Não Cíclico,placebo_reacao,-0.023087232630306286,11
+95,2019,Financeiro,placebo_antecip,-0.049829367319431175,45
+95,2019,Financeiro,placebo_reacao,0.007092660995299687,11
+95,2019,Materiais Básicos,placebo_antecip,-0.06796701406478886,45
+95,2019,Materiais Básicos,placebo_reacao,0.002520722025035931,11
+95,2019,Outros,placebo_antecip,0.2474371507399804,45
+95,2019,Outros,placebo_reacao,-0.029568018426481883,11
+95,2019,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.05761103512070127,45
+95,2019,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.008950530632815229,11
+95,2019,Saúde,placebo_antecip,0.07036243408251913,45
+95,2019,Saúde,placebo_reacao,-0.01650033696511909,11
+95,2019,Utilidade Pública,placebo_antecip,0.04283103124957032,45
+95,2019,Utilidade Pública,placebo_reacao,-0.034890297340081255,11
+96,2021,Bens Industriais,placebo_antecip,-0.1391397834617836,45
+96,2021,Bens Industriais,placebo_reacao,-0.06114799820589918,11
+96,2021,Comunicações,placebo_antecip,-0.21651465062870195,45
+96,2021,Comunicações,placebo_reacao,-0.060392812664231105,11
+96,2021,Construção e Transporte,placebo_antecip,-0.10053319328507798,45
+96,2021,Construção e Transporte,placebo_reacao,-0.003982320511207624,11
+96,2021,Consumo Cíclico,placebo_antecip,-0.10425131402818341,45
+96,2021,Consumo Cíclico,placebo_reacao,-0.039822463523599604,11
+96,2021,Consumo Não Cíclico,placebo_antecip,-0.0573063292087133,45
+96,2021,Consumo Não Cíclico,placebo_reacao,-0.018857014200380454,11
+96,2021,Financeiro,placebo_antecip,-0.057355651319438414,45
+96,2021,Financeiro,placebo_reacao,-0.0304158547240246,11
+96,2021,Materiais Básicos,placebo_antecip,-0.17401085281362477,45
+96,2021,Materiais Básicos,placebo_reacao,-0.011898989532014709,11
+96,2021,Outros,placebo_antecip,-0.1443400925928149,45
+96,2021,Outros,placebo_reacao,-0.0029190437781755653,11
+96,2021,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.08678025607708285,45
+96,2021,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.0022642223458207364,11
+96,2021,Saúde,placebo_antecip,-0.04018388413868364,45
+96,2021,Saúde,placebo_reacao,-0.08535520267722937,11
+96,2021,Utilidade Pública,placebo_antecip,-0.010887069174067975,45
+96,2021,Utilidade Pública,placebo_reacao,-0.004882416586574052,11
+97,2004,Bens Industriais,placebo_antecip,0.14656371605210794,45
+97,2004,Bens Industriais,placebo_reacao,-0.004340745326147772,11
+97,2004,Comunicações,placebo_antecip,0.24937338215720894,45
+97,2004,Comunicações,placebo_reacao,0.005463972681305298,11
+97,2004,Construção e Transporte,placebo_antecip,-0.0054017438973288645,45
+97,2004,Construção e Transporte,placebo_reacao,-0.002801199355572586,11
+97,2004,Consumo Cíclico,placebo_antecip,0.01378647478190498,45
+97,2004,Consumo Cíclico,placebo_reacao,0.0037870875056402187,11
+97,2004,Consumo Não Cíclico,placebo_antecip,0.6849310745371743,45
+97,2004,Consumo Não Cíclico,placebo_reacao,0.1676131033876362,11
+97,2004,Financeiro,placebo_antecip,0.1988147177445398,45
+97,2004,Financeiro,placebo_reacao,-0.12228405530909137,11
+97,2004,Materiais Básicos,placebo_antecip,0.19066107887731762,45
+97,2004,Materiais Básicos,placebo_reacao,0.02820111615125401,11
+97,2004,Outros,placebo_antecip,0.22285982012381256,45
+97,2004,Outros,placebo_reacao,0.1847262180508345,11
+97,2004,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.08934229718847227,45
+97,2004,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.010345059889149976,11
+97,2004,Saúde,placebo_antecip,0.1193973203405274,45
+97,2004,Saúde,placebo_reacao,0.029224694925231866,11
+97,2004,Utilidade Pública,placebo_antecip,0.008192363266880288,45
+97,2004,Utilidade Pública,placebo_reacao,0.013336967512660136,11
+98,2015,Bens Industriais,placebo_antecip,0.002813124534554021,45
+98,2015,Bens Industriais,placebo_reacao,0.04959686110834663,11
+98,2015,Comunicações,placebo_antecip,-0.11633395086905468,45
+98,2015,Comunicações,placebo_reacao,0.041264022048742965,10
+98,2015,Construção e Transporte,placebo_antecip,-0.0659077895495574,45
+98,2015,Construção e Transporte,placebo_reacao,0.04817888486911544,10
+98,2015,Consumo Cíclico,placebo_antecip,-0.07952537558624267,45
+98,2015,Consumo Cíclico,placebo_reacao,0.041849858128909644,10
+98,2015,Consumo Não Cíclico,placebo_antecip,0.0024125932676506597,45
+98,2015,Consumo Não Cíclico,placebo_reacao,0.048446676864872106,10
+98,2015,Financeiro,placebo_antecip,-0.01165129501323817,45
+98,2015,Financeiro,placebo_reacao,0.010270092778176398,10
+98,2015,Materiais Básicos,placebo_antecip,0.02017613755732302,45
+98,2015,Materiais Básicos,placebo_reacao,0.04529631336243263,10
+98,2015,Outros,placebo_antecip,0.01889159734074182,45
+98,2015,Outros,placebo_reacao,0.043886048480949624,10
+98,2015,"Petróleo, Gás e Biocombustíveis",placebo_antecip,-0.1807534053163141,45
+98,2015,"Petróleo, Gás e Biocombustíveis",placebo_reacao,0.02408283789067761,10
+98,2015,Saúde,placebo_antecip,-0.08016250904998536,45
+98,2015,Saúde,placebo_reacao,0.041222810234152085,10
+98,2015,Utilidade Pública,placebo_antecip,-0.024843843365750816,45
+98,2015,Utilidade Pública,placebo_reacao,0.03585642516675705,10
+99,2017,Bens Industriais,placebo_antecip,0.23238885074622465,45
+99,2017,Bens Industriais,placebo_reacao,0.05938087446195836,11
+99,2017,Comunicações,placebo_antecip,-0.10520445971408128,45
+99,2017,Comunicações,placebo_reacao,0.0026470061311014478,11
+99,2017,Construção e Transporte,placebo_antecip,0.040713163046488685,45
+99,2017,Construção e Transporte,placebo_reacao,0.006575341135759791,11
+99,2017,Consumo Cíclico,placebo_antecip,0.01664891882755319,45
+99,2017,Consumo Cíclico,placebo_reacao,0.002548240439385868,11
+99,2017,Consumo Não Cíclico,placebo_antecip,-0.00691513452577543,45
+99,2017,Consumo Não Cíclico,placebo_reacao,-0.001661768138784059,11
+99,2017,Financeiro,placebo_antecip,-0.013181129592810557,45
+99,2017,Financeiro,placebo_reacao,-0.012493156876348123,11
+99,2017,Materiais Básicos,placebo_antecip,-0.03201287111695489,45
+99,2017,Materiais Básicos,placebo_reacao,-0.004970679141854616,11
+99,2017,Outros,placebo_antecip,0.07955257425379952,45
+99,2017,Outros,placebo_reacao,-0.005068229232246835,11
+99,2017,"Petróleo, Gás e Biocombustíveis",placebo_antecip,0.03349241913806458,45
+99,2017,"Petróleo, Gás e Biocombustíveis",placebo_reacao,-0.01766186187435247,11
+99,2017,Saúde,placebo_antecip,-0.016224923297004295,45
+99,2017,Saúde,placebo_reacao,-0.03869499333775888,11
+99,2017,Utilidade Pública,placebo_antecip,-0.08193078666005703,45
+99,2017,Utilidade Pública,placebo_reacao,-0.025233442787267454,11
