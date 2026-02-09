@@ -122,14 +122,14 @@ O projeto foi desenhado para ser **plug-and-play**. Ele baixa os dados do Yahoo 
 
 ### Pré-requisitos
 
-- Python 3.8+
+- Python 3.12.5+
 - Acesso à internet (apenas na primeira execução)
 
 ### Instalação
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/risco-politico-b3.git
+git clone https://github.com/Joao-Garrido/Analise-Setorial-de-2002-a-2022.git
 cd risco-politico-b3
 
 # 2. Instale as dependências
