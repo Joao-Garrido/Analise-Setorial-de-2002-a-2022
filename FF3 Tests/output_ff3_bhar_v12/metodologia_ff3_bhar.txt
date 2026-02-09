@@ -1,0 +1,42 @@
+# Metodologia — Risco Político em Anos Eleitorais no Brasil (2002–2022)
+# Versão Final: Fama-French 3 Fatores + BHAR
+
+## 1. Modelo de Retorno Esperado
+Fama-French 3 Fatores (dados NEFIN-USP):
+  Ri,t − Rf,t = α + β₁·(Rm−Rf)t + β₂·SMBt + β₃·HMLt + εt
+  Estimação via OLS com erros robustos HAC (Newey-West, 5 lags).
+
+## 2. Janelas (Dinâmicas via HGPE)
+- Janela de Estimação: 252 dias úteis (≈1 ano), encerrando 30 DU antes do HGPE.
+- Janela de Evento (Antecipação): do início do HGPE até a véspera do 1º Turno.
+- Gap de segurança: 30 DU entre estimação e evento (evita contaminação).
+
+## 3. Retorno Anormal — BHAR (Buy-and-Hold Abnormal Return)
+  BHAR = ∏(1 + Ri,t) − ∏(1 + E[Ri,t])
+  Onde E[Ri,t] = α̂ + β̂₁·(Rm−Rf)t + β̂₂·SMBt + β̂₃·HMLt + Rf,t
+  Captura efeito de juros compostos (superior ao CAR para janelas longas).
+
+## 4. Agregação Setorial — Value-Weighted
+  ABHAR_setor = Σ(wi × BHARi)
+  Onde wi = Vi / ΣVj  (volume financeiro médio na janela de estimação)
+
+## 5. Testes Estatísticos
+- Teste t de Student (H₀: média dos BHARs = 0)
+- Teste de Wilcoxon (H₀: mediana dos BHARs = 0) — robustez contra outliers
+
+## 6. Testes de Robustez
+- Teste Placebo: anos não-eleitorais (2003, 2007, 2011, 2013, 2017, 2019)
+  com datas espelhadas nas mesmas semanas do calendário.
+- Difference-in-Differences:
+  Regulados (Petróleo/Gás, Utilidade Pública, Financeiro) vs Não Regulados
+
+## 7. Visualizações
+- Heatmap Setorial: ABHAR(%) por setor × ano eleitoral
+- Timeline Plot: BHAR acumulado dia-a-dia na janela de antecipação
+  (Regulados vs Não Regulados, média de todas as eleições)
+- DiD Bar Chart: comparação direta entre grupos por ano
+
+## 8. Dados
+- Preços e Volumes: Yahoo Finance (ajustados por proventos)
+- Fatores de Risco: NEFIN-USP (Rm−Rf, SMB, HML, Rf)
+- Classificação Setorial: B3 (Bolsa de Valores)
