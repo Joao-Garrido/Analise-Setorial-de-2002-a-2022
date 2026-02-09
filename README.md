@@ -139,7 +139,7 @@ pip install pandas numpy matplotlib seaborn statsmodels scipy yfinance openpyxl
 ### Execução
 
 ```bash
-python analise_completa_final.py
+python analise_completa_v13_final.py
 ```
 
 Na primeira execução, o script irá:
@@ -156,7 +156,7 @@ Na primeira execução, o script irá:
 ## 📂 Estrutura do Projeto
 
 ```
-risco-politico-b3/
+Analise-Setorial-de-2002-a-2022/
 │
 ├── analise_completa_final.py               # Script principal (ETL + Modelagem + Viz)
 ├── resultados_analise_b3_com_tickers.xlsx  # Input: mapeamento de tickers e setores (B3)
@@ -198,7 +198,7 @@ Para garantir a integridade dos resultados, o código aplica filtros rigorosos:
 
 | Categoria | Ferramenta |
 |:----------|:-----------|
-| Linguagem | Python 3.8+ |
+| Linguagem | Python 3.12.5+ |
 | Dados de Mercado | `yfinance` (Yahoo Finance) |
 | Fatores de Risco | NEFIN-USP |
 | Econometria | `statsmodels` (OLS, HAC) |
@@ -223,6 +223,6 @@ Este projeto está sob a licença **MIT**. Sinta-se livre para utilizar os códi
 ---
 
 <p align="center">
-  <b>Autor:</b> [Seu Nome]<br>
-  <i>Pesquisa desenvolvida como parte de [TCC / Dissertação / Estudo Pessoal] em Finanças Quantitativas.</i>
+  <b>Autor:</b> João Bastos Garrido<br>
+  <i>Pesquisa desenvolvida como parte de Dissertação e Estudo Pessoal em Finanças Quantitativas.</i>
 </p>
