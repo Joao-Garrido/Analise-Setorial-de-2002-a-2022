@@ -1,6 +1,6 @@
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Python-3.12.5%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Model-Fama--French%203%20Fatores-1D3557?style=for-the-badge" alt="Fama-French">
   <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-2ca02c?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
